@@ -3,50 +3,107 @@ Breadcrumb: Home
 Title: What to do when someone dies
 layout: sidenav
 ---
+<!--- (Draft service on a page – 4/3/2019 – CB)
+---> 
 
-# What to do after a death
+When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
-<!--
-  Light:      <div role="alert" class="au-page-alerts au-page-alerts--info">
-  Light Alt:  <div role="alert" class="au-page-alerts au-page-alerts--info au-page-alerts--alt">
-  Dark:       <div role="alert" class="au-body au-body--dark au-page-alerts au-page-alerts--info au-page-alerts--dark >
-  Dark Alt:   <div role="alert" class="au-body au-body--dark au-body--alt au-page-alerts au-page-alerts--info au-page-alerts--dark au-page-alerts--alt">
--->
-<div role="alert" class="au-body au-page-alerts au-page-alerts--info">
-  <h3>Important</h3>
-  <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our <a href="about"> About page </a> </p>
-</div>
+## 1. Your first steps - first days 
 
-In New South Wales, what you need to do after a death will be different depending on:
+In the first couple of days after someone dies you might need to: 
+- let authorities know 
+- talk to a funeral director 
+- find the will and other documents 
+- consider time off work 
+- let family and friends know
 
-* if there is a will
-* if there are children or dependents
-* whether you are receiving government benefits
-* whether the death happens at home or in care
-* if you are the executor or next of kin
+In some circumstances you will need to take extra steps. This is common if the death:  
+- [happened overseas](link) 
+- [happened in another state or territory](link) 
+- [was a still birth](link) 
+- [was referred to the coroner](link) 
 
-You'll need to do some things right away, but other things can wait until after the funeral.
+ 
+## 2. Organise a funeral or memorial service – first week 
 
-This guide provides you with a checklist of what to do after someone dies.
+In the first week after someone dies you will likely have to organise the funeral or memorial service. 
 
-### [What to do immediately after someone dies](first-steps)
+Every funeral is different, and when organising a funeral there are many things to consider. Using a funeral director can help to make this easier. They will help you with:
+- organising the service including speeches 
+- transporting and caring for the person who has died
+- organising a venue for the service 
+- officiating/speaking at the funeral 
 
-Who to contact, what happens with the body, and what happens if there are dependents.
+Common decisions include: 
+- where the burial plot or memorial will be
+- whether burial or cremation 
+- what kind of coffin 
+- who will speak at the service 
+- what to say at the service
+- who to invite to the service 
+- what clothing you would like the person to wear 
+- the memorial booklet 
+- organising a wake 
 
-### [Get a death certificate](register-the-death/getting-a-death-certificate)
+In NSW, a funeral director is required to give you a written quote for a basic funeral. A basic funeral in NSW costs, on average, $4000. 
 
-What you need to get a death certificate, how to do it, how long it will take, and what you can use a death certificate for.
+You can pay for a funeral in many different ways:
+- funeral insurance
+- prepaid funerals
+- up front
+- the person's estate
 
-### [Register the death](register-the-death)
+If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. [More about destitute funerals] (destitute funerals link)  
 
-Usually your funeral director will register the death for you. If you are the next-of-kin or a relative, you can register the death yourself.
+## 3. Get support – first month 
 
-### [Get financial help](getting-support/financial-support)
+### Getting support for grief 
 
-Help with Centrelink payments, paying for the funeral, and paid leave from work.
+After someone dies, people often find it helpful to talk to someone. 
 
-### [Wills and inheritance](wills-and-inheritance)
+Some of the support services you can use include: 
+* counselling services
+* grief counsellor
+* social worker
+* online services
+* support groups
+* support services for children
 
-What to do with the will, finding beneficiaries, getting a lawyer, and tax.
+Many of these are subsidised by Medicare. If you are receiving a Centrelink payment, you can access some services for free. 
+For a list of services close to you, see the [service locator] link. 
 
-<!--- --->
+### Getting financial support 
+There are 
+- subsidies for counselling through mental health care plan 
+- financial support for widows 
+- financial support for veterans 
+- financial support for new parents 
+- financial support for Aboriginal and Torres Strait Islanders  (funerals, transport)
+
+If you are Aboriginal or a Torres Strait Islander, you might be able to get support to pay for the funeral. See [this link](link location)
+
+## 4. Get a death certificate – after the funeral
+Death certificates are used for a whole host of things – cancelling and transferring services, family history. A death certificate is the official record of a persons death. 
+
+These are the requirements for a death certificate: 
+- you must be next of kin or executor of the estate(ID) 
+- it must be after the funeral 
+
+Births, Deaths and Marriages charge $x for a death certificate. They take [up to three weeks] to arrive. For more information about death certificates, visit [Births, Deaths, and Marriages] (link). 
+
+## 5. Cancel or transfer services – after the funeral
+
+Cancelling services can take a long time
+
+Make sure you get a whole heap of copies of the death certificate, as many services will need a certified copy (a copy that is signed off by a Justice of the Peace [link]) to cancel or transfer services. 
+
+Many services will ask you to meet with them in person. 
+See more about cancelling:
+Banks
+Social media 
+
+## 6. Execute the will – first months 
+What is the will
+What if you don’t have one?
+What does the probate process look like? 
+
