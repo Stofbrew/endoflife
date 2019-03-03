@@ -9,12 +9,12 @@ layout: sidenav
 When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
 On this page: 
-[1. First steps - day 1-3] (## 1.)
-[2. Organise a funeral - first week] (## 2.)
-[3. Get support - first month] (## 3.)
-[4. Get a death certificate - after the funeral] (## 4.)
-[5. Cancel services - months 1-3] (## 5.)
-[6. Execute the will - months 1-12](## 6.)
+[1. First steps - day 1-3] (1.)
+[2. Organise a funeral - first week] (2.)
+[3. Get support - first month] (3.)
+[4. Get a death certificate - after the funeral] (4.)
+[5. Cancel services - months 1-3] (5.)
+[6. Execute the will - months 1-12](6.)
 
 ## 1. First steps - day 1-3 
 
