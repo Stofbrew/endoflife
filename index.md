@@ -8,7 +8,7 @@ layout: sidenav
 
 When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
-On this page: 
+## On this page: 
 - [1. First steps - day 1-3](#1.)
 - [2. Organise a funeral - first week](#2.)
 - [3. Get support - first month](#3.)
@@ -18,7 +18,7 @@ On this page:
 
 ## 1. First steps - day 1-3 
 
-In the first couple of days after someone dies you might need to: 
+In the first days after someone dies you might need to: 
 - let authorities know 
 - talk to a funeral director 
 - find the will and other documents 
@@ -67,7 +67,7 @@ If you or the person's estate can’t pay for a funeral, they may be eligible fo
 
 ### Getting support for grief 
 
-After someone dies, people often find it helpful to talk to someone. 
+When they are grieving it can be helpful to talk to someone. 
 
 Some of the support services you can use include: 
 * counselling services
@@ -77,17 +77,23 @@ Some of the support services you can use include:
 * support groups
 * support services for children
 
-Many of these are subsidised by Medicare. If you are receiving a Centrelink payment, you can access some services for free. 
-For a list of services close to you, see the [service locator] link. 
+For a list of services close to you, see the [service locator](link). 
+
+Medicare subsidises some of the cost for counselling services and social work. For more information about Medicare subsidies for grief support, see the [Medicare website](medicare link). 
+
+If you are receiving a Centrelink payment, you can access some services for free. For information on free services, see the [Department of Human Services](DHS link).
 
 ### Getting financial support 
-There are 
-- subsidies for counselling through mental health care plan 
-- financial support for widows 
-- financial support for veterans 
-- financial support for new parents 
-- financial support for Aboriginal and Torres Strait Islanders  (funerals, transport)
+Some people can get help to pay for living expenses and funeral costs.  
+Check if you are eligible for the following financial support: 
+- [widows](link) 
+- [veterans](link)
+- [new parents(link)
+- [Aboriginal and Torres Strait Islanders(link) (funerals, transport)
 
+If you are seeing a counsellor as part of a mental health care plan, or if you are recieving a Centrelink payment, you may be eligible for subsidies for seeing mental health professionals. For more information. 
+
+counselling (mental health care plans)
 If you are Aboriginal or a Torres Strait Islander, you might be able to get support to pay for the funeral. See [this link](link location)
 
 ## 4. Get a death certificate – after the funeral
