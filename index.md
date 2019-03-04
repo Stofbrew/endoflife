@@ -165,7 +165,7 @@ You can request a death certificate online, in person, or through the post. Visi
 Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification). 
 
 
-<a class="au-cta-link au-cta-link--dark" href="https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx">Read complete information about death certificates 
+<a class="au-cta-link" href="https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx">Read complete information about death certificates 
 </a>
 ## Cancel or transfer servives – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
