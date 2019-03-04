@@ -6,7 +6,7 @@ layout: sidenav
 <!--- (Draft service on a page – 4/3/2019 – CB)
 ---> 
 
-When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
+# When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
 ## On this page: 
 - [1. First steps - day 1-3](#1.)
@@ -93,21 +93,25 @@ Check if you are eligible for the following financial support:
 
 If you are seeing a counsellor as part of a mental health care plan, or if you are recieving a Centrelink payment, you may be eligible for subsidies for seeing mental health professionals. For more information. 
 
-counselling (mental health care plans)
 If you are Aboriginal or a Torres Strait Islander, you might be able to get support to pay for the funeral. See [this link](link location)
 
-## 4. Get a death certificate – after the funeral
-Death certificates are used for a whole host of things – cancelling and transferring services, family history. A death certificate is the official record of a persons death. 
 
-These are the requirements for a death certificate: 
-- you must be next of kin or executor of the estate(ID) 
-- it must be after the funeral 
+## 4. Get a death certificate – after the funeral
+A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
+- cancelling and transferring services 
+- executing a will 
+- making an insurance claim 
+- claiming superannuation. 
+
+You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral.
+
+You can request a death certificate online through [Births, Deaths, and Marriages.](bdm link)
 
 Births, Deaths and Marriages charge $x for a death certificate. They take [up to three weeks] to arrive. For more information about death certificates, visit [Births, Deaths, and Marriages] (link). 
 
 ## 5. Cancel or transfer services – after the funeral
 
-Cancelling services can take a long time
+Cancelling services can take a long time.
 
 Make sure you get a whole heap of copies of the death certificate, as many services will need a certified copy (a copy that is signed off by a Justice of the Peace [link]) to cancel or transfer services. 
 
