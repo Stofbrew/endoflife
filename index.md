@@ -181,7 +181,7 @@ For more complete information about Wills in NSW, see [Trustee and Guardian](htt
 
 ### Intestacy: If there isn't a will
 <p class="au-callout" aria-label="Callout description1">
- Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see [NSW Trustee and Guardian](https://www.tag.nsw.gov.au/intestacy-faq.html]. 
+ Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see [NSW Trustee and Guardian](https://www.tag.nsw.gov.au/intestacy-faq.html). 
 </p>
 
 If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations: 
