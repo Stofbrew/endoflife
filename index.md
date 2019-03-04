@@ -60,7 +60,11 @@ Common decisions include:
 - the memorial booklet 
 - organising a wake 
 
+### Paying for a funeral 
+
+<p class="au-callout" aria-label="Callout description1">
 In NSW, a funeral director is required to give you a written quote for a basic funeral. A basic funeral in NSW costs, on average, $4000. 
+</p>
 
 You can pay for a funeral in many different ways:
 - funeral insurance
