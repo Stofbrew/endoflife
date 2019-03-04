@@ -1,7 +1,7 @@
 ---
 Breadcrumb: Home
 Title: What to do when someone dies
-layout: sidenav
+layout: nosidenav
 ---
 <!--- (Draft service on a page – 4/3/2019 – CB)
 ---> 
