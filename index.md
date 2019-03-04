@@ -19,18 +19,20 @@ On this page:
 
 ## 1. First steps - day 1-3 
 
+
 In the first days after someone dies you might need to: 
 - let authorities know 
 - talk to a funeral director 
 - find the will and other documents 
 - consider time off work 
+- care for pets and dependants
 - let family and friends know
 
 In some circumstances you will need to take extra steps. This is common if the death:  
 - [happened overseas](link) 
 - [happened in another state or territory](link) 
 - [was a still birth](link) 
-- [was referred to the coroner](link) 
+- [was unexpected, accidental, or suspicious](linktocoroner)
 
  
 ## 2. Organise a funeral or memorial service – first week 
