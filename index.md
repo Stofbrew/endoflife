@@ -37,6 +37,10 @@ In some circumstances you will need to take extra steps. This is common if the d
  
 ## 2. Organise a funeral or memorial service – first week 
 
+<p class="au-callout" aria-label="Callout description1">
+The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a quote, and know how you are going to pay for the funeral.
+</p>
+
 In the first week after someone dies you will likely have to organise the funeral or memorial service. 
 
 Every funeral is different, and when organising a funeral there are many things to consider. Using a funeral director can help to make this easier. They will help you with:
