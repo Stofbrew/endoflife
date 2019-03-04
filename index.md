@@ -5,16 +5,12 @@ layout: sidenav
 ---
 <!--- (Draft service on a page – 4/3/2019 – CB)
 ---> 
-
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section0"> 
-</h2>
     
 # After a death 
 When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
 <nav class="au-inpage-nav-links" aria-label="in page navigation">
-  <h2 class="au-inpage-nav-links__heading">Contents</h2>
+  <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
     <li><a href="#section1">First steps</a></li>
     <li><a href="#section2">Organise a funeral</a></li>
@@ -27,7 +23,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 ## First steps
 <h2 class="au-inpage-nav-section au-display-sm"> 
-  <a id="section1" class="au-inpage-nav-section-link" href="#section0">back to top</a>
+  <a id="section1" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
 
@@ -49,7 +45,7 @@ In some circumstances you will need to take extra steps. This is common if the d
 
 ## Organise a funeral or memorial service – first week
 <h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section2" class="au-inpage-nav-section-link" href="#section0">back to top</a>
+  <a id="section2" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
 <p class="au-callout" aria-label="Callout description1">
@@ -103,7 +99,7 @@ If you or the person's estate can’t pay for a funeral, they may be eligible fo
 
 ## Get support – first month
 <h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section3" class="au-inpage-nav-section-link" href="#section0">back to top</a>
+  <a id="section3" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
 ### Getting support for grief 
@@ -142,7 +138,7 @@ If you are Aboriginal or a Torres Strait Islander, you might be able to get refu
 
 ##   Get a death certificate – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section4" class="au-inpage-nav-section-link" href="#section0">back to top</a>
+  <a id="section4" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
 A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
@@ -159,7 +155,7 @@ Births, Deaths and Marriages charge $85 for a death certificate. They can take u
 
 ## Cancel or transfer servives – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section5" class="au-inpage-nav-section-link" href="#section0">back to top</a>
+  <a id="section5" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.
 
@@ -186,7 +182,7 @@ Because you might be cancelling many services, consider getting many copies cert
 
 ## Execute the Will – 1-12 months
 <h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section6" class="au-inpage-nav-section-link" href="#section0">back to top</a>
+  <a id="section6" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
 A Will is a legal document that states your wishes for how your assets will be distributed after your death. 
