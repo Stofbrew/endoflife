@@ -22,14 +22,14 @@ On this page:
 
 In the first days after someone dies you might need to: 
 - let authorities know 
-- talk to a funeral director 
+- talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
 - find the will and other documents 
 - consider time off work 
 - care for pets and dependants
 - let family and friends know
 
 In some circumstances you will need to take extra steps. This is common if the death:  
-- [happened overseas](link) 
+- [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
 - [happened in another state or territory](link) 
 - [was a still birth](link) 
 - [was unexpected, accidental, or suspicious](linktocoroner)
@@ -48,6 +48,8 @@ Every funeral is different, and when organising a funeral there are many things 
 - transporting and caring for the person who has died
 - organising a venue for the service 
 - officiating/speaking at the funeral 
+
+[More information about using a Funeral Director at NSW Fair Trading](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director).
 
 ### Things to consider when organising a service
 
@@ -75,7 +77,10 @@ You can pay for a funeral in many different ways:
 - the person's estate (as stipulated in the Will)
 - from your own funds
 
-If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. [More about destitute funerals](destitute–funerals-link)  
+[More about these ways to pay for a funeral at LawAccess NSW](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx)
+
+If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. 
+[More about destitute funerals](destitute–funerals-link)  
 
 ## 3. Get support – first month 
 
