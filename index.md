@@ -38,10 +38,10 @@ In some circumstances you will need to take extra steps. This is common if the d
 ## 2. Organise a funeral or memorial service – first week 
 
 <p class="au-callout" aria-label="Callout description1">
-The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a quote, and know how you are going to pay for the funeral.
+The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a written quote, and know how you are going to pay for the funeral.
 </p>
 
-In the first week after someone dies you will likely have to organise the funeral or memorial service. 
+A funeral or memorial service usually happens between 1 and 4 weeks after someone dies. 
 
 Every funeral is different, and when organising a funeral there are many things to consider. Using a funeral director can help to make this easier. They will help you with:
 - organising the service including speeches 
@@ -49,7 +49,7 @@ Every funeral is different, and when organising a funeral there are many things 
 - organising a venue for the service 
 - officiating/speaking at the funeral 
 
-Common decisions include: 
+When organising a funeral, you will have to decide on: 
 - where the burial plot or memorial will be
 - whether burial or cremation 
 - what kind of coffin 
@@ -67,12 +67,12 @@ In NSW, a funeral director is required to give you a written quote for a basic f
 </p>
 
 You can pay for a funeral in many different ways:
-- funeral insurance
-- prepaid funerals
-- up front
-- the person's estate
+- funeral insurance (kept with an insurance agency)
+- using funds from a prepaid funerals (kept with a funeral home)
+- the person's estate (as stipulated in the Will)
+- from your own funds
 
-If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. [More about destitute funerals] (destitute funerals link)  
+If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. [More about destitute funerals](destitute–funerals-link)  
 
 ## 3. Get support – first month 
 
