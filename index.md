@@ -6,7 +6,7 @@ layout: sidenav
 <!--- (Draft service on a page – 4/3/2019 – CB)
 ---> 
 
-# When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
+### When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
 ## On this page: 
 - [1. First steps - day 1-3](#1.)
