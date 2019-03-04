@@ -149,8 +149,22 @@ Because you might be cancelling many services, consider getting many copies cert
 [Find a Justice of the Peace](link)
 
 
-## 6. Execute the will – first months 
-What is the will
-What if you don’t have one?
-What does the probate process look like? 
+## 6. Execute the Will – first months 
+
+A Will is a legal document that states your wishes for how your assets will be distributed after your death. 
+
+For more information about Wills in NSW, see [Trustee and Guardian](https://www.tag.nsw.gov.au/wills-landing-page.html).
+
+### Intestacy: If there isn't a will
+<p class="au-callout" aria-label="Callout description1">
+ Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see [NSW Trustee and Guardian](https://www.tag.nsw.gov.au/intestacy-faq.html. 
+</p>
+
+If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations: 
+- the Will doesn't properly dispose of all assets
+- the Will is either not signed or not witnessed  
+- the person did not have mental capacity to make a Will
+- the Will has not been written in a way that meets the legal rules for Wills
+
+Sometimes a person may die partly testate and partly intestate. This occurs where part of the Will is valid but part is invalid. This may result in even more inconvenience, delay and expense than administering a full intestate estate.
 
