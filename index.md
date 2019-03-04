@@ -153,7 +153,7 @@ Because you might be cancelling many services, consider getting many copies cert
 
 A Will is a legal document that states your wishes for how your assets will be distributed after your death. 
 
-For more information about Wills in NSW, see [Trustee and Guardian](https://www.tag.nsw.gov.au/wills-landing-page.html).
+For more information about Wills in NSW, see [Trustee and Guardian](https://www.tag.nsw.gov.au/wills-landing-page.html)
 
 ### Intestacy: If there isn't a will
 <p class="au-callout" aria-label="Callout description1">
