@@ -64,7 +64,7 @@ Every funeral is different, and when organising a funeral there are many things 
   Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
 -->
 
-<a class="au-cta-link au-cta-link--dark" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">More about using a Funeral Director 
+<a class="au-cta-link au-cta-link--dark" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">Read more about using a Funeral Director 
 </a>
 ### Things to consider when organising a service
 
@@ -91,11 +91,18 @@ You can pay for a funeral in many different ways:
 - using funds from a prepaid funerals (kept with a funeral home)
 - the person's estate (as stipulated in the Will)
 - from your own funds
+<!--
+  Light:  <a class="au-cta-link" href="#">
+  Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
+-->
 
-[More about these ways to pay for a funeral at LawAccess NSW](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx)
+<a class="au-cta-link au-cta-link--dark" href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx">Read more about paying for a funeral
+</a>
 
 If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. 
-[More about destitute funerals](destitute–funerals-link)  
+
+<a class="au-cta-link au-cta-link--dark" href="https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/destitute-funerals">Read more about destitute funerals
+</a>
 
 ## Get support – first month
 <h2 class="au-inpage-nav-section au-display-sm">
@@ -115,7 +122,11 @@ Some of the support services you might consider include:
 * support groups
 * support services for children
 
-For a list of services close to you, see the [National Associationg for Loss and Grief) (http://www.nalag.org.au/). 
+
+<a class="au-cta-link au-cta-link--dark" href="http://www.nalag.org.au/">See a complete list of services 
+</a>
+
+### Subsidies for grief counselling 
 
 Medicare subsidises some of the cost for counselling services and social work. For more information about Medicare subsidies for grief support, see the [Health Direct](https://www.healthdirect.gov.au/mental-health-care-plan). 
 
@@ -153,6 +164,9 @@ You can request a death certificate online, in person, or through the post. Visi
 
 Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification). 
 
+
+<a class="au-cta-link au-cta-link--dark" href="https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx">Read complete information about death certificates 
+</a>
 ## Cancel or transfer servives – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
   <a id="section5" class="au-inpage-nav-section-link" href="#">back to top</a>
@@ -169,7 +183,8 @@ See more about cancelling:
 - Social media accounts 
 - Licences and registration 
 
-For a checklist of services to contact, see the [Department of Human Services - PDF](https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf). 
+<a class="au-cta-link au-cta-link--dark" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
+</a>
 
 ### Certifying copies 
 To cancel or transfer ownership of a service, many companies will need a 'certified copy'. 
@@ -178,7 +193,8 @@ A certified copy is a photocopy of a document that has been seen by a Justice of
 
 Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. 
 
-[Find a Justice of the Peace in NSW](http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp)
+<a class="au-cta-link au-cta-link--dark" href="http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp">Find a Justice of the Peace in NSW
+</a>
 
 ## Execute the Will – 1-12 months
 <h2 class="au-inpage-nav-section au-display-sm">
@@ -201,7 +217,8 @@ Depending on the size and nature of the estate, the process of executing a Will 
 - Establishment of Trusts - pay legacies and hand over specific bequests, transfer funds or assets to beneficiaries, obtain receipts, prepare final statement for beneficiaries
 - Continuing administration and asset management if required e.g. to manage longer term trusts
 
-For more complete information about Wills in NSW, see [Trustee and Guardian](https://www.tag.nsw.gov.au/wills-landing-page.html)
+<a class="au-cta-link au-cta-link--dark" href="https://www.tag.nsw.gov.au/wills-landing-page.html">Read complete information about Wills in NSW
+</a>
 
 ### Intestacy: If there isn't a will
 <p class="au-callout" aria-label="Callout description1">
