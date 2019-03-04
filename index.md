@@ -64,7 +64,7 @@ Every funeral is different, and when organising a funeral there are many things 
   Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
 -->
 
-<a class="au-cta-link au-cta-link--darl" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">More about using a Funeral Director 
+<a class="au-cta-link au-cta-link--dark" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">More about using a Funeral Director 
 </a>
 ### Things to consider when organising a service
 
