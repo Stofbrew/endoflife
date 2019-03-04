@@ -8,7 +8,7 @@ layout: sidenav
 
 ### When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
-## On this page: 
+On this page: 
 - [1. First steps - day 1-3](#1.)
 - [2. Organise a funeral - first week](#2.)
 - [3. Get support - first month](#3.)
