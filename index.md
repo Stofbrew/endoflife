@@ -21,8 +21,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </ul>
 </nav>
 
-<h2 class="au-inpage-nav-section au-display-sm">
-  First steps - day 1-3
+## First steps
+<h2 class="au-inpage-nav-section au-display-sm"> 
   <a id="section1" class="au-inpage-nav-section-link" href="#section1">Link to section</a>
 </h2>
 
@@ -38,13 +38,13 @@ In the first days after someone dies you might need to:
 
 In some circumstances you will need to take extra steps. This is common if the death:  
 - [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
-- [happened in another state or territory](link) 
-- [was a still birth](link) 
+- [happened in another state or territory] 
+- [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
 - [was unexpected, accidental, or suspicious](linktocoroner)
 
- 
+
+## Organise a funeral or memorial service – first week
 <h2 class="au-inpage-nav-section au-display-sm">
-  Organise a funeral or memorial service – first week
   <a id="section1" class="au-inpage-nav-section-link" href="#section2">Link to section</a>
 </h2>
 
@@ -97,8 +97,9 @@ You can pay for a funeral in many different ways:
 If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. 
 [More about destitute funerals](destitute–funerals-link)  
 
+## Get support – first month
 <h2 class="au-inpage-nav-section au-display-sm">
-  Get support – first month
+  
   <a id="section1" class="au-inpage-nav-section-link" href="#section3">Link to section</a>
 </h2>
 
@@ -136,8 +137,8 @@ If you are seeing a counsellor as part of a mental health care plan, or if you a
 
 If you are Aboriginal or a Torres Strait Islander, you might be able to get refunds for travel to funerals. See [Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities)
 
+##   Get a death certificate – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
-  Get a death certificate – after the funeral
   <a id="section1" class="au-inpage-nav-section-link" href="#section4">Link to section</a>
 </h2>
 
@@ -153,8 +154,8 @@ You can request a death certificate online, in person, or through the post. Visi
 
 Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification). 
 
+## Cancel or transfer servives – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
-  Cancel or transfer servives – after the funeral
   <a id="section1" class="au-inpage-nav-section-link" href="#section5">Link to section</a>
 </h2>
 To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.
@@ -180,9 +181,8 @@ Because you might be cancelling many services, consider getting many copies cert
 
 [Find a Justice of the Peace in NSW](http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp)
 
-
+## Execute the Will – 1-12 months
 <h2 class="au-inpage-nav-section au-display-sm">
-  Execute the Will – 1-12 months
   <a id="section1" class="au-inpage-nav-section-link" href="#section6">Link to section</a>
 </h2>
 
