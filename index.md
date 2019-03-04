@@ -49,16 +49,19 @@ Every funeral is different, and when organising a funeral there are many things 
 - organising a venue for the service 
 - officiating/speaking at the funeral 
 
+### Things to consider when organising a service
+
 When organising a funeral, you will have to decide on: 
 - where the burial plot or memorial will be
 - whether burial or cremation 
 - what kind of coffin 
+- the date (particularly important if people are travelling from far away)
 - who will speak at the service 
 - what to say at the service
 - who to invite to the service 
-- what clothing you would like the person to wear 
-- the memorial booklet 
-- organising a wake 
+- what clothing you would like the person to wear
+- what is in the memorial booklet 
+- whehter you want to hold a wake 
 
 ### Paying for a funeral 
 
