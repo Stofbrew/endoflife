@@ -5,6 +5,13 @@ layout: sidenav
 ---
 <!--- (Draft service on a page – 4/3/2019 – CB)
 ---> 
+<nav class="au-inpage-nav-links" aria-label="in page navigation">
+  <h2 class="au-inpage-nav-links__heading">Contents</h2>
+  <ul class="au-link-list">
+    <li><a href="#section1">Section 1</a></li>
+    <li><a href="#section2">Section 2</a></li>
+  </ul>
+</nav>
 
 # After a death 
 When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
