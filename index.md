@@ -196,3 +196,6 @@ If someone dies without a Will they are said to die 'intestate'. Intestacy can a
 
 Sometimes a person may die partly testate and partly intestate. This occurs where part of the Will is valid but part is invalid. This may result in even more inconvenience, delay and expense than administering a full intestate estate.
 
+<button class="au-btn">
+  Primary button
+</button>
