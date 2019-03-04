@@ -86,9 +86,10 @@ If you or the person's estate can’t pay for a funeral, they may be eligible fo
 
 ### Getting support for grief 
 
-When they are grieving it can be helpful to talk to someone. 
+When someone close to you dies, it can help to have someone to talk to. 
 
-Some of the support services you can use include: 
+Some of the support services you might consider include: 
+
 * counselling services
 * grief counsellor
 * social worker
@@ -96,23 +97,24 @@ Some of the support services you can use include:
 * support groups
 * support services for children
 
-For a list of services close to you, see the [service locator](link). 
+For a list of services close to you, see the [National Associationg for Loss and Grief) (http://www.nalag.org.au/). 
 
-Medicare subsidises some of the cost for counselling services and social work. For more information about Medicare subsidies for grief support, see the [Medicare website](medicare link). 
+Medicare subsidises some of the cost for counselling services and social work. For more information about Medicare subsidies for grief support, see the [Health Direct](https://www.healthdirect.gov.au/mental-health-care-plan). 
 
 If you are receiving a Centrelink payment, you can access some services for free. For information on free services, see the [Department of Human Services](DHS link).
 
 ### Getting financial support 
 Some people can get help to pay for living expenses and funeral costs.  
+
 Check if you are eligible for the following financial support: 
-- [widows](link) 
-- [veterans](link)
-- [new parents(link)
-- [Aboriginal and Torres Strait Islanders(link) (funerals, transport)
+- [widows](https://www.humanservices.gov.au/individuals/services/centrelink/bereavement-allowance/who-can-get-it) 
+- [veterans](http://www.dva.gov.au/benefits-and-payments/bereavement-assistance)
+- [parents of a stillborn child](https://www.humanservices.gov.au/individuals/services/centrelink/stillborn-baby-payment)
+- [Aboriginal and Torres Strait Islanders - Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities) 
 
 If you are seeing a counsellor as part of a mental health care plan, or if you are recieving a Centrelink payment, you may be eligible for subsidies for seeing mental health professionals. For more information. 
 
-If you are Aboriginal or a Torres Strait Islander, you might be able to get support to pay for the funeral. See [this link](link location)
+If you are Aboriginal or a Torres Strait Islander, you might be able to get refunds for travel to funerals. See [Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities)
 
 
 ## 4. Get a death certificate – after the funeral
