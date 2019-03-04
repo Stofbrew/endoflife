@@ -126,9 +126,9 @@ A death certificate is the official record of a person's death. It can be used t
 
 You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral.
 
-You can request a death certificate online through [Births, Deaths, and Marriages.](bdm link)
+You can request a death certificate online, in person, or through the post. Visit [NSW Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Howtoapply) for more information. 
 
-Births, Deaths and Marriages charge $x for a death certificate. They take [up to three weeks] to arrive. For more information about death certificates, visit [Births, Deaths, and Marriages] (link). 
+Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification). 
 
 ## 5. Cancel or transfer services – after the funeral
 
@@ -144,7 +144,7 @@ See more about cancelling:
 - Social media accounts 
 - Licences and registration 
 
-For a checklist of services to contact, see the [Department of Human Services](linktochecklist). 
+For a checklist of services to contact, see the [Department of Human Services - PDF](https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf). 
 
 ### Certifying copies 
 To cancel or transfer ownership of a service, many companies will need a 'certified copy'. 
@@ -153,7 +153,7 @@ A certified copy is a photocopy of a document that has been seen by a Justice of
 
 Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. 
 
-[Find a Justice of the Peace](link)
+[Find a Justice of the Peace in NSW](http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp)
 
 
 ## 6. Execute the Will – 1-12 months
