@@ -5,26 +5,26 @@ layout: sidenav
 ---
 <!--- (Draft service on a page – 4/3/2019 – CB)
 ---> 
-<nav class="au-inpage-nav-links" aria-label="in page navigation">
-  <h2 class="au-inpage-nav-links__heading">Contents</h2>
-  <ul class="au-link-list">
-    <li><a href="#section1">Section 1</a></li>
-    <li><a href="#section2">Section 2</a></li>
-  </ul>
-</nav>
 
 # After a death 
 When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
-On this page: 
-- [1. First steps - day 1-3](#1.)
-- [2. Organise a funeral - first week](#2.)
-- [3. Get support - first month](#3.)
-- [4. Get a death certificate - after the funeral](#4.)
-- [5. Cancel services - months 1-3](#5.)
-- [6. Execute the will - months 1-12](#6.)
+<nav class="au-inpage-nav-links" aria-label="in page navigation">
+  <h2 class="au-inpage-nav-links__heading">Contents</h2>
+  <ul class="au-link-list">
+    <li><a href="#section1">First steps</a></li>
+    <li><a href="#section2">Organise a funeral</a></li>
+    <li><a href="#section3">Get support</a></li>
+    <li><a href="#section4">Get a death certificate</a></li>
+    <li><a href="#section5">Cancel or transfer services</a></li>
+    <li><a href="#section6">Execute the Will</a></li>
+  </ul>
+</nav>
 
-## 1. First steps - day 1-3 
+<h2 class="au-inpage-nav-section au-display-sm">
+  First steps - day 1-3
+  <a id="section1" class="au-inpage-nav-section-link" href="#section1">Link to section</a>
+</h2>
 
 
 In the first days after someone dies you might need to: 
@@ -43,7 +43,10 @@ In some circumstances you will need to take extra steps. This is common if the d
 - [was unexpected, accidental, or suspicious](linktocoroner)
 
  
-## 2. Organise a funeral or memorial service – first week 
+<h2 class="au-inpage-nav-section au-display-sm">
+  Organise a funeral or memorial service – first week
+  <a id="section1" class="au-inpage-nav-section-link" href="#section2">Link to section</a>
+</h2>
 
 <p class="au-callout" aria-label="Callout description1">
 The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a written quote, and know how you are going to pay for the funeral.
@@ -94,7 +97,10 @@ You can pay for a funeral in many different ways:
 If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. 
 [More about destitute funerals](destitute–funerals-link)  
 
-## 3. Get support – first month 
+<h2 class="au-inpage-nav-section au-display-sm">
+  Get support – first month
+  <a id="section1" class="au-inpage-nav-section-link" href="#section3">Link to section</a>
+</h2>
 
 ### Getting support for grief 
 
@@ -130,8 +136,11 @@ If you are seeing a counsellor as part of a mental health care plan, or if you a
 
 If you are Aboriginal or a Torres Strait Islander, you might be able to get refunds for travel to funerals. See [Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities)
 
+<h2 class="au-inpage-nav-section au-display-sm">
+  Get a death certificate – after the funeral
+  <a id="section1" class="au-inpage-nav-section-link" href="#section4">Link to section</a>
+</h2>
 
-## 4. Get a death certificate – after the funeral
 A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
 - cancelling and transferring services 
 - executing a will 
@@ -144,8 +153,10 @@ You can request a death certificate online, in person, or through the post. Visi
 
 Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification). 
 
-## 5. Cancel or transfer services – after the funeral
-
+<h2 class="au-inpage-nav-section au-display-sm">
+  Cancel or transfer servives – after the funeral
+  <a id="section1" class="au-inpage-nav-section-link" href="#section5">Link to section</a>
+</h2>
 To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.
 
 Cancelling services can take a long time.
@@ -170,7 +181,10 @@ Because you might be cancelling many services, consider getting many copies cert
 [Find a Justice of the Peace in NSW](http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp)
 
 
-## 6. Execute the Will – 1-12 months
+<h2 class="au-inpage-nav-section au-display-sm">
+  Execute the Will – 1-12 months
+  <a id="section1" class="au-inpage-nav-section-link" href="#section6">Link to section</a>
+</h2>
 
 A Will is a legal document that states your wishes for how your assets will be distributed after your death. 
 
