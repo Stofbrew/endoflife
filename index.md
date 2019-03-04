@@ -21,11 +21,12 @@ On this page:
 
 
 In the first days after someone dies you might need to: 
-- let authorities know 
+- let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)  
 - talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
 - find the will and other documents 
-- consider time off work 
-- care for pets and dependants
+- consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
+- care for dependants
+- care for pets
 - let family and friends know
 
 In some circumstances you will need to take extra steps. This is common if the death:  
@@ -109,6 +110,8 @@ Some people can get help to pay for living expenses and funeral costs.
 Check if you are eligible for the following financial support: 
 - [widows](https://www.humanservices.gov.au/individuals/services/centrelink/bereavement-allowance/who-can-get-it) 
 - [veterans](http://www.dva.gov.au/benefits-and-payments/bereavement-assistance)
+- [carers](https://www.humanservices.gov.au/individuals/services/centrelink/bereavement-payment)
+- [if the death happened at work](https://www.icare.nsw.gov.au/injured-or-ill-people/workplace-injuries/payments/payments-for-bereaved-families/#gref)
 - [parents of a stillborn child](https://www.humanservices.gov.au/individuals/services/centrelink/stillborn-baby-payment)
 - [Aboriginal and Torres Strait Islanders - Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities) 
 
