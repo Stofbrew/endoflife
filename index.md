@@ -149,11 +149,25 @@ Because you might be cancelling many services, consider getting many copies cert
 [Find a Justice of the Peace](link)
 
 
-## 6. Execute the Will – first months 
+## 6. Execute the Will – 1-12 months
 
 A Will is a legal document that states your wishes for how your assets will be distributed after your death. 
 
-For more information about Wills in NSW, see [Trustee and Guardian](https://www.tag.nsw.gov.au/wills-landing-page.html)
+If there are assets that need to be distributed to many different parties, executing a Will can take a long time. 
+
+Depending on the size and nature of the estate, the process of executing a Will can involve: 
+- Finding the Will
+- Talking to family and business associates
+- Telling beneficiaries 
+- Protecting assests, listing assets and debts 
+- Applying to Supreme Court for a grant of Probate 
+- Paying any liabilities including income tax to date of death with assets. 
+- Preparing accounting and tax information for beneficiaries
+- Distribution of Estate
+- Establishment of Trusts - pay legacies and hand over specific bequests, transfer funds or assets to beneficiaries, obtain receipts, prepare final statement for beneficiaries
+- Continuing administration and asset management if required e.g. to manage longer term trusts
+
+For more complete information about Wills in NSW, see [Trustee and Guardian](https://www.tag.nsw.gov.au/wills-landing-page.html)
 
 ### Intestacy: If there isn't a will
 <p class="au-callout" aria-label="Callout description1">
