@@ -102,7 +102,7 @@ For a list of services close to you, see the [National Associationg for Loss and
 
 Medicare subsidises some of the cost for counselling services and social work. For more information about Medicare subsidies for grief support, see the [Health Direct](https://www.healthdirect.gov.au/mental-health-care-plan). 
 
-If you are receiving a Centrelink payment, you can access some services for free. For information on free services, see the [Department of Human Services](DHS link).
+If you are receiving a Centrelink payment, you can access some services for free. For information on free services, see the [Department of Human Services](https://www.humanservices.gov.au/individuals/subjects/what-do-following-death#a7).
 
 ### Getting financial support 
 Some people can get help to pay for living expenses and funeral costs.  
