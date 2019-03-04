@@ -111,14 +111,29 @@ Births, Deaths and Marriages charge $x for a death certificate. They take [up to
 
 ## 5. Cancel or transfer services – after the funeral
 
-Cancelling services can take a long time.
+To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.
 
-Make sure you get a whole heap of copies of the death certificate, as many services will need a certified copy (a copy that is signed off by a Justice of the Peace [link]) to cancel or transfer services. 
+Cancelling services can take a long time.
 
 Many services will ask you to meet with them in person. 
 See more about cancelling:
-Banks
-Social media 
+- Bank accounts 
+- Memberships 
+- Phone, internet, electricity, gas
+- Social media accounts 
+- Licences and registration 
+
+For a checklist of services to contact, see the [Department of Human Services](linktochecklist). 
+
+### Certifying copies 
+To cancel or transfer ownership of a service, many companies will need a 'certified copy'. 
+
+A certified copy is a photocopy of a document that has been seen by a Justice of the Peace (JP) alongsidewith the original document. 
+
+Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. 
+
+[Find a Justice of the Peace](link)
+
 
 ## 6. Execute the will – first months 
 What is the will
