@@ -49,9 +49,13 @@ Every funeral is different, and when organising a funeral there are many things 
 - transporting and caring for the person who has died
 - organising a venue for the service 
 - officiating/speaking at the funeral 
+<!--
+  Light:  <a class="au-cta-link" href="#">
+  Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
+-->
 
-[More information about using a Funeral Director at NSW Fair Trading](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director).
-
+<a class="au-cta-link" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">More information about using a Funeral Director (External link: Fair Trading)
+</a>
 ### Things to consider when organising a service
 
 When organising a funeral, you will have to decide on: 
