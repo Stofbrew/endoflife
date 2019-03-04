@@ -64,7 +64,7 @@ Every funeral is different, and when organising a funeral there are many things 
   Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
 -->
 
-<a class="au-cta-link au-cta-link--dark" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">Read more about using a Funeral Director 
+<a class="au-cta-link" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">Read more about using a Funeral Director 
 </a>
 ### Things to consider when organising a service
 
@@ -96,12 +96,12 @@ You can pay for a funeral in many different ways:
   Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
 -->
 
-<a class="au-cta-link au-cta-link--dark" href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx">Read more about paying for a funeral
+<a class="au-cta-link" href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx">Read more about paying for a funeral
 </a>
 
 If you or the person's estate can’t pay for a funeral, they may be eligible for a  destitute funeral. In a destitute funeral, the government covers the cost of a basic funeral. 
 
-<a class="au-cta-link au-cta-link--dark" href="https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/destitute-funerals">Read more about destitute funerals
+<a class="au-cta-link" href="https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/destitute-funerals">Read more about destitute funerals
 </a>
 
 ## Get support – first month
@@ -123,7 +123,7 @@ Some of the support services you might consider include:
 * support services for children
 
 
-<a class="au-cta-link au-cta-link--dark" href="http://www.nalag.org.au/">See a complete list of services 
+<a class="au-cta-link" href="http://www.nalag.org.au/">See a complete list of services 
 </a>
 
 ### Subsidies for grief counselling 
@@ -183,7 +183,7 @@ See more about cancelling:
 - Social media accounts 
 - Licences and registration 
 
-<a class="au-cta-link au-cta-link--dark" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
+<a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
 </a>
 
 ### Certifying copies 
@@ -193,7 +193,7 @@ A certified copy is a photocopy of a document that has been seen by a Justice of
 
 Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. 
 
-<a class="au-cta-link au-cta-link--dark" href="http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp">Find a Justice of the Peace in NSW
+<a class="au-cta-link" href="http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp">Find a Justice of the Peace in NSW
 </a>
 
 ## Execute the Will – 1-12 months
@@ -217,7 +217,7 @@ Depending on the size and nature of the estate, the process of executing a Will 
 - Establishment of Trusts - pay legacies and hand over specific bequests, transfer funds or assets to beneficiaries, obtain receipts, prepare final statement for beneficiaries
 - Continuing administration and asset management if required e.g. to manage longer term trusts
 
-<a class="au-cta-link au-cta-link--dark" href="https://www.tag.nsw.gov.au/wills-landing-page.html">Read complete information about Wills in NSW
+<a class="au-cta-link" href="https://www.tag.nsw.gov.au/wills-landing-page.html">Read complete information about Wills in NSW
 </a>
 
 ### Intestacy: If there isn't a will
@@ -233,6 +233,5 @@ If someone dies without a Will they are said to die 'intestate'. Intestacy can a
 
 Sometimes a person may die partly testate and partly intestate. This occurs where part of the Will is valid but part is invalid. This may result in even more inconvenience, delay and expense than administering a full intestate estate.
 
-<button class="au-btn">
-  Primary button
-</button>
+<a class="au-cta-link" href="https://www.tag.nsw.gov.au/intestacy-faq.html">Read complete information about Wills in NSW
+</a>
