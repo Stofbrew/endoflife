@@ -197,7 +197,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
           <p> To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.</p>
 
           <p> Cancelling services can take a long time and many services will ask you to meet with them in person.<p>
-            
+
           <p> See more about cancelling:</p>
           <ul>
           <li> <a href="#"> Bank accounts </a> </li>
@@ -232,15 +232,12 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-6">
         <div class="au-accordion__body-wrapper">
-          <h2 class="au-inpage-nav-section au-display-sm">
-            <a id="section6" class="au-inpage-nav-section-link" href="#">back to top</a>
-          </h2>
 
           <p> A Will is a legal document that states your wishes for how your assets will be distributed after your death. </p>
 
           <p> If there are assets that need to be distributed to many different parties, executing a Will can take a long time. </p>
 
-          <ul> Depending on the size and nature of the estate, the process of executing a Will can involve: 
+          <ul> Depending on the size and nature of the estate, the process of executing a Will can involve:
               <li> Finding the Will</li>
               <li> Talking to family and business associates</li>
               <li> Telling beneficiaries</li>
@@ -261,7 +258,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
            Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see <a href="https://www.tag.nsw.gov.au/intestacy-faq.html">NSW Trustee and Guardian</a>.
           </p>
           <br></br>
-          <ul> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations: 
+          <ul> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations:
             <li> the Will doesn't properly dispose of all assets </li>
             <li> the Will is either not signed or not witnessed</li>
             <li> the person did not have mental capacity to make a Will</li>
@@ -277,7 +274,3 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
     </section>
   </li>
 </ul>
-
-
-## Execute the Will – 1-12 months
-
