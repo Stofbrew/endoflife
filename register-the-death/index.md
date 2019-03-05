@@ -28,7 +28,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
     <li> care for pets
     </li>
     <li> let family and friends know
-</ul>
+    </ul>
 
 In some circumstances you will need to take extra steps. This is common if the death:  
         <ul>
