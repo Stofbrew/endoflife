@@ -15,7 +15,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
         <div class="au-accordion__body-wrapper">
           In the first days after someone dies you might need to: 
-    <li> let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)
+    <li> <a href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx"> let authorities know </a>
     </li>
     <li> talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
     </li>
