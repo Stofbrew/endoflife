@@ -5,12 +5,12 @@ layout: sidenav
 ---
 
 # After a death
-<p class="au-callout au-callout--dark"> When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
-  </p>
+When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
+
 
 <ul class="au-accordion-group">
   <li>
-    <section class="au-accordion">
+    <section class="au-accordion au-accordion--dark">
       <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-1" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">1. First steps</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
@@ -160,7 +160,7 @@ layout: sidenav
   </li>
 
     <li>
-    <section class="au-accordion">
+    <section class="au-accordion au-accordion--dark">
       <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-4" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">4. Get a death certificate</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-4">
@@ -169,7 +169,7 @@ layout: sidenav
           <p> A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are: </p>
           <ul>
               <li> cancelling and transferring services</li>
-              <li> executing a will</li>
+              <li> executing a will </li>
               <li> making an insurance claim</li>
               <li> claiming superannuation. </li>
           </ul>
@@ -189,19 +189,42 @@ layout: sidenav
   </li>
 
   <li>
-  <section class="au-accordion">
+    <section class="au-accordion au-accordion--dark">
     <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-5" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">5. Cancel or transfer services</button>
 
     <div class="au-accordion__body au-accordion--closed" id="accordion-group-5">
       <div class="au-accordion__body-wrapper">
-        
+        <p> To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.</p>
+
+        <p> Cancelling services can take a long time and many services will ask you to meet with them in person.<p>
+
+        <p> See more about cancelling:</p>
+        <ul>
+          <li>  Bank accounts </li>
+          <li>  Memberships </li>
+          <li>  Phone, internet, electricity, gas </li>
+          <li>  Social media accounts </li>
+          <li>  Licences and registration </li>
+        </ul>
+
+        <a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
+        </a>
+
+        <h3> Certifying copies </h3>
+
+        <p> To cancel or transfer ownership of a service, many companies will need a 'certified copy'. </p>
+
+        <p> A certified copy is a photocopy of a document that has been seen by a Justice of the Peace (JP) alongsidewith the original document. </p>
+
+        <p> Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. </p>
+
       </div>
     </div>
   </section>
   </li>
   
   <li>
-  <section class="au-accordion">
+    <section class="au-accordion au-accordion--dark">
     <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-6" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">6. Execute the will</button>
 
     <div class="au-accordion__body au-accordion--closed" id="accordion-group-6">
