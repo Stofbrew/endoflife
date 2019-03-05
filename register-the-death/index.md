@@ -22,22 +22,22 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
             </li>
             <li> find the will and other documents 
             </li>
-            <li> consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
+            <li> <a href=https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave> consider time off work</a>
             </li>
             <li> care for dependants
             </li>
             <li> care for pets
             </li>
             <li> let family and friends know
+            </li>
           </ul>
-
-            <ul>
+          <ul>
             In some circumstances you will need to take extra steps. This is common if the death:  
                 <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
                 </li>
                 <li> [happened in another state or territory] 
                 </li>
-                <li> [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
+                <li> <a href="https://www.bdm.nsw.gov.au/perinatal">was a still birth</a>
                 </li> 
                 <li> [was unexpected, accidental, or suspicious](linktocoroner)
                 </li>
@@ -49,7 +49,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
   <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 2</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Organise the funeral</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
         <div class="au-accordion__body-wrapper">
