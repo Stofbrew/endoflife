@@ -220,7 +220,6 @@ layout: sidenav
 
           <a class="au-cta-link" href="http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp">Find a Justice of the Peace in NSW
           </a>
-
         </div>
       </div>
     </section>
