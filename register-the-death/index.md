@@ -165,7 +165,24 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-4">
         <div class="au-accordion__body-wrapper">
-          Here <a href="#url">is</a> some accordion content
+
+          <p> A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
+          <ul>
+              <li> cancelling and transferring services</li>
+              <li> executing a will</li>
+              <li> making an insurance claim</li>
+              <li> claiming superannuation. </li>
+          </ul>
+
+          <p> You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral. </p>
+
+          <p> You can request a death certificate online, in person, or through the post. Visit [NSW Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Howtoapply) for more information. </p>
+
+          <p> Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification).</p>
+
+          <a class="au-cta-link" href="https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx">Read complete information about death certificates
+          </a>
+
         </div>
       </div>
     </section>
@@ -211,37 +228,25 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 
 
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section1" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
 
 
+<p> A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
+<ul>
+    <li> cancelling and transferring services</li>
+    <li> executing a will</li>
+    <li> making an insurance claim</li>
+    <li> claiming superannuation. </li>
+</ul>
 
+<p> You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral. </p>
 
+<p> You can request a death certificate online, in person, or through the post. Visit [NSW Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Howtoapply) for more information. </p>
 
-## Organise a funeral or memorial service – first week
-
-
-##   Get a death certificate – after the funeral
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section4" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
-
-A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
-- cancelling and transferring services
-- executing a will
-- making an insurance claim
-- claiming superannuation.
-
-You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral.
-
-You can request a death certificate online, in person, or through the post. Visit [NSW Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Howtoapply) for more information.
-
-Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification).
-
+<p> Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification).</p>
 
 <a class="au-cta-link" href="https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx">Read complete information about death certificates
 </a>
+
 ## Cancel or transfer servives – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
   <a id="section5" class="au-inpage-nav-section-link" href="#">back to top</a>
