@@ -7,26 +7,36 @@ layout: sidenav
 # After a death 
 When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
 
-<nav class="au-inpage-nav-links" aria-label="in page navigation">
-  <h2 class="au-inpage-nav-links__heading">On this page</h2>
-  <ul class="au-link-list">
-    <li><a href="#section1">First steps</a></li>
-    <li><a href="#section2">Organise a funeral</a></li>
-    <li><a href="#section3">Get support</a></li>
-    <li><a href="#section4">Get a death certificate</a></li>
-    <li><a href="#section5">Cancel or transfer services</a></li>
-    <li><a href="#section6">Execute the Will</a></li>
-  </ul>
-</nav>
-
 <ul class="au-accordion-group">
   <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-1" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 1</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-1" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">First steps</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
         <div class="au-accordion__body-wrapper">
-          Here <a href="#url">is</a> some accordion content
+          In the first days after someone dies you might need to: 
+    <li> let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)
+    </li>
+    <li> talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
+    </li>
+    <li> find the will and other documents 
+    </li>
+    <li> consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
+    </li>
+    <li> care for dependants
+    </li>
+    <li> care for pets
+    </li>
+    <li> let family and friends know
+</ul>
+
+In some circumstances you will need to take extra steps. This is common if the death:  
+<ul>
+    <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
+    <li> [happened in another state or territory] 
+    <li> [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
+    <li> [was unexpected, accidental, or suspicious](linktocoroner)
+</ul>
         </div>
       </div>
     </section>
@@ -113,20 +123,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 </h2>
 
 
-In the first days after someone dies you might need to: 
-- let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)  
-- talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
-- find the will and other documents 
-- consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
-- care for dependants
-- care for pets
-- let family and friends know
 
-In some circumstances you will need to take extra steps. This is common if the death:  
-- [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
-- [happened in another state or territory] 
-- [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
-- [was unexpected, accidental, or suspicious](linktocoroner)
 
 
 ## Organise a funeral or memorial service – first week
