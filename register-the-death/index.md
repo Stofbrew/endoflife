@@ -33,7 +33,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 <section class="au-accordion">
   <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    First steps
+    Accordion title
   </a>
 
   <div class="au-accordion__body" id="accordion-default">
@@ -45,7 +45,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 <section class="au-accordion">
   <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Organise a funeral
+    Accordion title
   </a>
 
   <div class="au-accordion__body" id="accordion-default">
@@ -57,7 +57,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 <section class="au-accordion">
   <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Get Support
+    Accordion title
   </a>
 
   <div class="au-accordion__body" id="accordion-default">
@@ -69,7 +69,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 <section class="au-accordion">
   <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Get a Death Certificate
+    Accordion title
   </a>
 
   <div class="au-accordion__body" id="accordion-default">
@@ -81,7 +81,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 <section class="au-accordion">
   <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Cancel or transfer service
+    Accordion title
   </a>
 
   <div class="au-accordion__body" id="accordion-default">
@@ -93,7 +93,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
 <section class="au-accordion">
   <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Execute the Will
+    Accordion title
   </a>
 
   <div class="au-accordion__body" id="accordion-default">
@@ -102,6 +102,20 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
     </div>
   </div>
 </section>
+
+<section class="au-accordion">
+  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
+    Accordion title
+  </a>
+
+  <div class="au-accordion__body" id="accordion-default">
+    <div class="au-accordion__body-wrapper">
+      Here <a href="#url">is</a> some accordion content
+    </div>
+  </div>
+</section>
+
+
 
 <h2 class="au-inpage-nav-section au-display-sm"> 
   <a id="section1" class="au-inpage-nav-section-link" href="#">back to top</a>
