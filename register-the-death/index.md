@@ -258,7 +258,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
            Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see <a href="https://www.tag.nsw.gov.au/intestacy-faq.html">NSW Trustee and Guardian</a>.
           </p>
           <br>
-          <ul> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations:
+          <p> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations: </p>
+          <ul> 
             <li> the Will doesn't properly dispose of all assets </li>
             <li> the Will is either not signed or not witnessed</li>
             <li> the person did not have mental capacity to make a Will</li>
