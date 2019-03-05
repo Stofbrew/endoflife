@@ -46,7 +46,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 3</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-3" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 3</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-3">
         <div class="au-accordion__body-wrapper">
@@ -58,7 +58,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 4</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-4" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 4</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-4">
         <div class="au-accordion__body-wrapper">
@@ -70,7 +70,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 5</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-5" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 5</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-5">
         <div class="au-accordion__body-wrapper">
@@ -82,7 +82,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 6</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-6" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 6</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-6">
         <div class="au-accordion__body-wrapper">
@@ -94,7 +94,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 7</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-7" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 7</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-7">
         <div class="au-accordion__body-wrapper">
