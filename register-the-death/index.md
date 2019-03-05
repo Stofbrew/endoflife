@@ -15,31 +15,32 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
         <div class="au-accordion__body-wrapper">
           In the first days after someone dies you might need to: 
-    <li> <a href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx"> let authorities know </a>
-    </li>
-    <li> talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
-    </li>
-    <li> find the will and other documents 
-    </li>
-    <li> consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
-    </li>
-    <li> care for dependants
-    </li>
-    <li> care for pets
-    </li>
-    <li> let family and friends know
-    </ul>
+          <ul>
+            <li> <a href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx"> let authorities know </a>
+            </li>
+            <li> talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
+            </li>
+            <li> find the will and other documents 
+            </li>
+            <li> consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
+            </li>
+            <li> care for dependants
+            </li>
+            <li> care for pets
+            </li>
+            <li> let family and friends know
+          </ul>
 
-In some circumstances you will need to take extra steps. This is common if the death:  
-        <ul>
-            <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
-            </li>
-            <li> [happened in another state or territory] 
-            </li>
-            <li> [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
-            </li> 
-            <li> [was unexpected, accidental, or suspicious](linktocoroner)
-            </li>
+            <ul>
+            In some circumstances you will need to take extra steps. This is common if the death:  
+                <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
+                </li>
+                <li> [happened in another state or territory] 
+                </li>
+                <li> [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
+                </li> 
+                <li> [was unexpected, accidental, or suspicious](linktocoroner)
+                </li>
             </ul>
         </div>
       </div>
@@ -296,7 +297,7 @@ Depending on the size and nature of the estate, the process of executing a Will 
 - Finding the Will
 - Talking to family and business associates
 - Telling beneficiaries 
-- Protecting assests, listing assets and debts 
+- Protecting assets, listing assets and debts 
 - Applying to Supreme Court for a grant of Probate 
 - Paying any liabilities including income tax to date of death with assets. 
 - Preparing accounting and tax information for beneficiaries
