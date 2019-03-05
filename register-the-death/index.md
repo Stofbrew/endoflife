@@ -15,6 +15,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
         <div class="au-accordion__body-wrapper">
           In the first days after someone dies you might need to:
+          <div class="au-body">
           <ul>
             <li> <a href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx"> let authorities know </a> </li>
             <li> talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director) </li>
@@ -24,13 +25,16 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
             <li> care for pets </li>
             <li> let family and friends know </li>
           </ul>
+          </div>
           In some circumstances you will need to take extra steps. This is common if the death:
+          <div class="au-body">
           <ul>
                 <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) </li>
                 <li> [happened in another state or territory] </li>
                 <li> <a href="https://www.bdm.nsw.gov.au/perinatal">was a still birth</a> </li>
                 <li> [was unexpected, accidental, or suspicious](linktocoroner) </li>
             </ul>
+            </div>
         </div>
       </div>
     </section>
@@ -55,7 +59,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
         <li> organising a venue for the service </li>
         <li> officiating/speaking at the funeral </li>
           </ul>
-          
+
         <!--
           Light:  <a class="au-cta-link" href="#">
           Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
@@ -90,6 +94,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
         <li> using funds from a prepaid funerals (kept with a funeral home)</li>
         <li> the person's estate (as stipulated in the Will)</li>
         <li> from your own funds</li>
+        </ul>
         <!--
           Light:  <a class="au-cta-link" href="#">
           Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
@@ -190,7 +195,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   <a id="section3" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
-### Getting support for grief
+<h3> Getting support for grief </h3>
 
 When someone close to you dies, it can help to have someone to talk to.
 
