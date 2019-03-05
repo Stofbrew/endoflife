@@ -205,9 +205,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
         <p> To cancel or transfer ownership of a service, many companies will need a 'certified copy'. </p>
 
         <p> A certified copy is a photocopy of a document that has been seen by a Justice of the Peace (JP) alongsidewith the original document. </p>
-
         <p> Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. </p>
-
       </div>
     </div>
   </section>
