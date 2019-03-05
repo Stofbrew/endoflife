@@ -173,7 +173,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
               <li> making an insurance claim</li>
               <li> claiming superannuation. </li>
           </ul>
-
+          </p>
           <p> You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral. </p>
 
           <p> You can request a death certificate online, in person, or through the post. Visit [NSW Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Howtoapply) for more information. </p>
@@ -290,3 +290,5 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </li>
 
 </ul>
+
+
