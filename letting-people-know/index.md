@@ -3,6 +3,30 @@ breadcrumb: Letting people know
 name: Letting people know
 layout: sidenav
 ---
+
+# Getting a death certificate 
+
+<section class="au-callout au-callout--dark">
+    <h2 class="au-callout__heading"> Some kind of heading </h2>
+    <p>Here are some words that will help to frame the user experience. This is the most important information. 
+Cost, time, how to get one. 
+</p>
+</section>
+
+
+<section class="au-accordion">
+  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
+    If it is a still birth
+  </button>
+
+  <div class="au-accordion__body" id="accordion-default">
+    <div class="au-accordion__body-wrapper">
+      Some content here 
+    </div>
+  </div>
+</section>
+
+
 <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
       <span class="au-progress-indicator__status">Doing</span>
       Get source content
