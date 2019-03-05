@@ -209,7 +209,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
           <a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
           </a>
-
+          <br></br>
           <h3> Certifying copies </h3>
 
           <p> To cancel or transfer ownership of a service, many companies will need a 'certified copy'. </p>
@@ -241,16 +241,16 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
           <p> If there are assets that need to be distributed to many different parties, executing a Will can take a long time. </p>
 
           <ul> Depending on the size and nature of the estate, the process of executing a Will can involve: 
-          <li> Finding the Will</li>
-          <li> Talking to family and business associates</li>
-          <li> Telling beneficiaries</li>
-          <li> Protecting assets, listing assets and debts </li>
-          <li> Applying to Supreme Court for a grant of Probate </li>
-          <li> Paying any liabilities including income tax to date of death with assets. </li>
-          <li> Preparing accounting and tax information for beneficiaries </li>
-          <li> Distribution of Estate </li>
-          <li> Establishment of Trusts - pay legacies and hand over specific bequests, transfer funds or assets to beneficiaries, obtain receipts, prepare final statement for beneficiaries </li>
-          <li> Continuing administration and asset management if required e.g. to manage longer term trusts </li>
+              <li> Finding the Will</li>
+              <li> Talking to family and business associates</li>
+              <li> Telling beneficiaries</li>
+              <li> Protecting assets, listing assets and debts </li>
+              <li> Applying to Supreme Court for a grant of Probate </li>
+              <li> Paying any liabilities including income tax to date of death with assets. </li>
+              <li> Preparing accounting and tax information for beneficiaries </li>
+              <li> Distribution of Estate </li>
+              <li> Establishment of Trusts - pay legacies and hand over specific bequests, transfer funds or assets to beneficiaries, obtain receipts, prepare final statement for beneficiaries </li>
+              <li> Continuing administration and asset management if required e.g. to manage longer term trusts </li>
           </ul>
 
           <a class="au-cta-link" href="https://www.tag.nsw.gov.au/wills-landing-page.html">Read complete information about Wills in NSW
@@ -260,12 +260,12 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
           <p class="au-callout" aria-label="Callout description1">
            Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see <a href="https://www.tag.nsw.gov.au/intestacy-faq.html">NSW Trustee and Guardian</a>.
           </p>
-
+          <br></br>
           <ul> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations: 
-          <li> the Will doesn't properly dispose of all assets </li>
-          <li> the Will is either not signed or not witnessed</li>
-          <li> the person did not have mental capacity to make a Will</li>
-          <li> the Will has not been written in a way that meets the legal rules for Wills</li>
+            <li> the Will doesn't properly dispose of all assets </li>
+            <li> the Will is either not signed or not witnessed</li>
+            <li> the person did not have mental capacity to make a Will</li>
+            <li> the Will has not been written in a way that meets the legal rules for Wills</li>
           </ul>
 
           <p> Sometimes a person may die partly testate and partly intestate. This occurs where part of the Will is valid but part is invalid. This may result in even more inconvenience, delay and expense than administering a full intestate estate. </p>
@@ -276,19 +276,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       </div>
     </section>
   </li>
-
-    <li>
-    <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-7" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 7</button>
-
-      <div class="au-accordion__body au-accordion--closed" id="accordion-group-7">
-        <div class="au-accordion__body-wrapper">
-          Here <a href="#url">is</a> some accordion content
-        </div>
-      </div>
-    </section>
-  </li>
-
 </ul>
 
+
+## Execute the Will – 1-12 months
 
