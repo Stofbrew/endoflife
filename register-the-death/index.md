@@ -19,7 +19,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
             <li> <a href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx"> let authorities know </a> </li>
             <li> talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director) </li>
             <li> find the will and other documents </li>
-            <li> <a href=https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave> consider time off work</a> </li>
+            <li> <a href="https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave> consider time off work"</a> </li>
             <li> care for dependants </li>
             <li> care for pets </li>
             <li> let family and friends know </li>
@@ -48,7 +48,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
         </p>
 
         <p> A funeral or memorial service usually happens between 1 and 4 weeks after someone dies. </p>
-        
+
         <ul> Every funeral is different, and when organising a funeral there are many things to consider. Using a funeral director can help to make this easier. They will help you with:
         <li> organising the service including speeches </li>
         <li> transporting and caring for the person who has died </li>
@@ -77,7 +77,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
           <li> what is in the memorial booklet </li>
           <li> whehter you want to hold a wake </li>
         </ul>
-        
+
         <h3> Paying for a funeral </h3>
 
         <p class="au-callout" aria-label="Callout description1">
@@ -184,49 +184,43 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 ## Organise a funeral or memorial service – first week
 
 
-
-## Get support – first month
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section3" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
-
 <h3> Getting support for grief </h3>
 
-When someone close to you dies, it can help to have someone to talk to.
-
-Some of the support services you might consider include:
-
-* counselling services
-* grief counsellor
-* social worker
-* online services
-* support groups
-* support services for children
-
+<p> When someone close to you dies, it can help to have someone to talk to.
+<ul> Some of the support services you might consider include:
+    <li> counselling services</li>
+    <li> grief counsellor</li>
+    <li> social worker</li>
+    <li> online services</li>
+    <li> support groups </li>
+    <li> support services for children </li>
+</ul>
+</p>
 
 <a class="au-cta-link" href="http://www.nalag.org.au/">See a complete list of services
 </a>
 
-### Subsidies for grief counselling
+<h3> Subsidies for grief counselling </h3>
 
-Medicare subsidises some of the cost for counselling services and social work. For more information about Medicare subsidies for grief support, see the [Health Direct](https://www.healthdirect.gov.au/mental-health-care-plan).
+<p> Medicare subsidises some of the cost for counselling services and social work. For more information about Medicare subsidies for grief support, see the [Health Direct](https://www.healthdirect.gov.au/mental-health-care-plan). </p>
 
-If you are receiving a Centrelink payment, you can access some services for free. For information on free services, see the [Department of Human Services](https://www.humanservices.gov.au/individuals/subjects/what-do-following-death#a7).
+<p> If you are receiving a Centrelink payment, you can access some services for free. For information on free services, see the [Department of Human Services](https://www.humanservices.gov.au/individuals/subjects/what-do-following-death#a7).</p>
 
-### Getting financial support
-Some people can get help to pay for living expenses and funeral costs.
+<h3> Getting financial support </h3>
 
-Check if you are eligible for the following financial support:
-- [widows](https://www.humanservices.gov.au/individuals/services/centrelink/bereavement-allowance/who-can-get-it)
-- [veterans](http://www.dva.gov.au/benefits-and-payments/bereavement-assistance)
-- [carers](https://www.humanservices.gov.au/individuals/services/centrelink/bereavement-payment)
-- [if the death happened at work](https://www.icare.nsw.gov.au/injured-or-ill-people/workplace-injuries/payments/payments-for-bereaved-families/#gref)
-- [parents of a stillborn child](https://www.humanservices.gov.au/individuals/services/centrelink/stillborn-baby-payment)
-- [Aboriginal and Torres Strait Islanders - Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities)
+<p> Some people can get help to pay for living expenses and funeral costs. </p>
+    <ul> Check if you are eligible for the following financial support:
+  <li> [widows](https://www.humanservices.gov.au/individuals/services/centrelink/bereavement-allowance/who-can-get-it) </li>
+  <li> [veterans](http://www.dva.gov.au/benefits-and-payments/bereavement-assistance) </li>
+  <li> [carers](https://www.humanservices.gov.au/individuals/services/centrelink/bereavement-payment)</li>
+  <li> [if the death happened at work](https://www.icare.nsw.gov.au/injured-or-ill-people/workplace-injuries/payments/payments-for-bereaved-families/#gref)</li>
+  <li> [parents of a stillborn child](https://www.humanservices.gov.au/individuals/services/centrelink/stillborn-baby-payment)</li>
+  <li> [Aboriginal and Torres Strait Islanders - Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities)</li>
+</ul>
 
-If you are seeing a counsellor as part of a mental health care plan, or if you are recieving a Centrelink payment, you may be eligible for subsidies for seeing mental health professionals. For more information.
+<p> If you are seeing a counsellor as part of a mental health care plan, or if you are recieving a Centrelink payment, you may be eligible for subsidies for seeing mental health professionals. For more information. </p>
 
-If you are Aboriginal or a Torres Strait Islander, you might be able to get refunds for travel to funerals. See [Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities)
+<p> If you are Aboriginal or a Torres Strait Islander, you might be able to get refunds for travel to funerals. See [Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities) </p>
 
 ##   Get a death certificate – after the funeral
 <h2 class="au-inpage-nav-section au-display-sm">
