@@ -194,7 +194,33 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-5">
         <div class="au-accordion__body-wrapper">
-          Here <a href="#url">is</a> some accordion content
+          <p> To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.</p>
+
+          <p> Cancelling services can take a long time and many services will ask you to meet with them in person.<p>
+            
+          <p> See more about cancelling:</p>
+          <ul>
+          <li> <a href="#"> Bank accounts </a> </li>
+          <li> <a href="#"> Memberships</a> </li>
+          <li> <a href="#"> Phone, internet, electricity, gas</a> </li>
+          <li> <a href="#"> Social media accounts</a> </li>
+          <li> <a href="#"> Licences and registration</a> </li>
+          </ul>
+
+          <a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
+          </a>
+
+          <h3> Certifying copies </h3>
+
+          <p> To cancel or transfer ownership of a service, many companies will need a 'certified copy'. </p>
+
+          <p> A certified copy is a photocopy of a document that has been seen by a Justice of the Peace (JP) alongsidewith the original document. </p>
+
+          <p> Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. </p>
+
+          <a class="au-cta-link" href="http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp">Find a Justice of the Peace in NSW
+          </a>
+
         </div>
       </div>
     </section>
@@ -206,7 +232,46 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-6">
         <div class="au-accordion__body-wrapper">
-          Here <a href="#url">is</a> some accordion content
+          <h2 class="au-inpage-nav-section au-display-sm">
+            <a id="section6" class="au-inpage-nav-section-link" href="#">back to top</a>
+          </h2>
+
+          <p> A Will is a legal document that states your wishes for how your assets will be distributed after your death. </p>
+
+          <p> If there are assets that need to be distributed to many different parties, executing a Will can take a long time. </p>
+
+          <ul> Depending on the size and nature of the estate, the process of executing a Will can involve: 
+          <li> Finding the Will</li>
+          <li> Talking to family and business associates</li>
+          <li> Telling beneficiaries</li>
+          <li> Protecting assets, listing assets and debts </li>
+          <li> Applying to Supreme Court for a grant of Probate </li>
+          <li> Paying any liabilities including income tax to date of death with assets. </li>
+          <li> Preparing accounting and tax information for beneficiaries </li>
+          <li> Distribution of Estate </li>
+          <li> Establishment of Trusts - pay legacies and hand over specific bequests, transfer funds or assets to beneficiaries, obtain receipts, prepare final statement for beneficiaries </li>
+          <li> Continuing administration and asset management if required e.g. to manage longer term trusts </li>
+          </ul>
+
+          <a class="au-cta-link" href="https://www.tag.nsw.gov.au/wills-landing-page.html">Read complete information about Wills in NSW
+          </a>
+
+          <h3> Intestacy: If there isn't a will </h3>
+          <p class="au-callout" aria-label="Callout description1">
+           Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see <a href="https://www.tag.nsw.gov.au/intestacy-faq.html">NSW Trustee and Guardian</a>.
+          </p>
+
+          <ul> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations: 
+          <li> the Will doesn't properly dispose of all assets </li>
+          <li> the Will is either not signed or not witnessed</li>
+          <li> the person did not have mental capacity to make a Will</li>
+          <li> the Will has not been written in a way that meets the legal rules for Wills</li>
+          </ul>
+
+          <p> Sometimes a person may die partly testate and partly intestate. This occurs where part of the Will is valid but part is invalid. This may result in even more inconvenience, delay and expense than administering a full intestate estate. </p>
+
+          <a class="au-cta-link" href="https://www.tag.nsw.gov.au/intestacy-faq.html">Read complete information about Wills in NSW
+          </a>
         </div>
       </div>
     </section>
@@ -225,93 +290,3 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </li>
 
 </ul>
-
-
-
-
-
-<p> A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
-<ul>
-    <li> cancelling and transferring services</li>
-    <li> executing a will</li>
-    <li> making an insurance claim</li>
-    <li> claiming superannuation. </li>
-</ul>
-
-<p> You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral. </p>
-
-<p> You can request a death certificate online, in person, or through the post. Visit [NSW Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Howtoapply) for more information. </p>
-
-<p> Births, Deaths and Marriages charge $85 for a death certificate. They can take up to three weeks to arrive, depending on how you apply. For more information about getting a death certificate, visit [Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Identification).</p>
-
-<a class="au-cta-link" href="https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx">Read complete information about death certificates
-</a>
-
-## Cancel or transfer servives – after the funeral
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section5" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
-To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.
-
-Cancelling services can take a long time.
-
-Many services will ask you to meet with them in person.
-See more about cancelling:
-- Bank accounts
-- Memberships
-- Phone, internet, electricity, gas
-- Social media accounts
-- Licences and registration
-
-<a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
-</a>
-
-### Certifying copies
-To cancel or transfer ownership of a service, many companies will need a 'certified copy'.
-
-A certified copy is a photocopy of a document that has been seen by a Justice of the Peace (JP) alongsidewith the original document.
-
-Because you might be cancelling many services, consider getting many copies certified by the JP at the same time.
-
-<a class="au-cta-link" href="http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp">Find a Justice of the Peace in NSW
-</a>
-
-## Execute the Will – 1-12 months
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section6" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
-
-A Will is a legal document that states your wishes for how your assets will be distributed after your death.
-
-If there are assets that need to be distributed to many different parties, executing a Will can take a long time.
-
-Depending on the size and nature of the estate, the process of executing a Will can involve:
-- Finding the Will
-- Talking to family and business associates
-- Telling beneficiaries
-- Protecting assets, listing assets and debts
-- Applying to Supreme Court for a grant of Probate
-- Paying any liabilities including income tax to date of death with assets.
-- Preparing accounting and tax information for beneficiaries
-- Distribution of Estate
-- Establishment of Trusts - pay legacies and hand over specific bequests, transfer funds or assets to beneficiaries, obtain receipts, prepare final statement for beneficiaries
-- Continuing administration and asset management if required e.g. to manage longer term trusts
-
-<a class="au-cta-link" href="https://www.tag.nsw.gov.au/wills-landing-page.html">Read complete information about Wills in NSW
-</a>
-
-### Intestacy: If there isn't a will
-<p class="au-callout" aria-label="Callout description1">
- Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see <a href="https://www.tag.nsw.gov.au/intestacy-faq.html">NSW Trustee and Guardian</a>.
-</p>
-
-If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations:
-- the Will doesn't properly dispose of all assets
-- the Will is either not signed or not witnessed
-- the person did not have mental capacity to make a Will
-- the Will has not been written in a way that meets the legal rules for Wills
-
-Sometimes a person may die partly testate and partly intestate. This occurs where part of the Will is valid but part is invalid. This may result in even more inconvenience, delay and expense than administering a full intestate estate.
-
-<a class="au-cta-link" href="https://www.tag.nsw.gov.au/intestacy-faq.html">Read complete information about Wills in NSW
-</a>
