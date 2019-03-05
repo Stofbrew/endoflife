@@ -19,101 +19,92 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </ul>
 </nav>
 
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
+<ul class="au-accordion-group">
+  <li>
+    <section class="au-accordion">
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-1" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 1</button>
 
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
+      <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
+        <div class="au-accordion__body-wrapper">
+          Here <a href="#url">is</a> some accordion content
+        </div>
+      </div>
+    </section>
+  </li>
 
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
+  <li>
+    <section class="au-accordion">
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 2</button>
 
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
+      <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
+        <div class="au-accordion__body-wrapper">
+          Here <a href="#url">is</a> some accordion content
+        </div>
+      </div>
+    </section>
+  </li>
+  
+    <li>
+    <section class="au-accordion">
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 2</button>
 
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
+      <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
+        <div class="au-accordion__body-wrapper">
+          Here <a href="#url">is</a> some accordion content
+        </div>
+      </div>
+    </section>
+  </li>
+  
+    <li>
+    <section class="au-accordion">
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 2</button>
 
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
+      <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
+        <div class="au-accordion__body-wrapper">
+          Here <a href="#url">is</a> some accordion content
+        </div>
+      </div>
+    </section>
+  </li>
+  
+    <li>
+    <section class="au-accordion">
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 2</button>
 
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
+      <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
+        <div class="au-accordion__body-wrapper">
+          Here <a href="#url">is</a> some accordion content
+        </div>
+      </div>
+    </section>
+  </li>
+  
+    <li>
+    <section class="au-accordion">
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 2</button>
 
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
+      <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
+        <div class="au-accordion__body-wrapper">
+          Here <a href="#url">is</a> some accordion content
+        </div>
+      </div>
+    </section>
+  </li>
+  
+    <li>
+    <section class="au-accordion">
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 2</button>
 
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
-
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
-
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
-
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
-
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
-
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
-
-<section class="au-accordion">
-  <a href="#accordion-default" class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" aria-selected="true" onclick="return AU.accordion.Toggle( this )">
-    Accordion title
-  </a>
-
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Here <a href="#url">is</a> some accordion content
-    </div>
-  </div>
-</section>
+      <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
+        <div class="au-accordion__body-wrapper">
+          Here <a href="#url">is</a> some accordion content
+        </div>
+      </div>
+    </section>
+  </li>
+  
+</ul>
 
 
 
