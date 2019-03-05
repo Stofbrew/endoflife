@@ -194,6 +194,14 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
     <div class="au-accordion__body au-accordion--closed" id="accordion-group-5">
       <div class="au-accordion__body-wrapper">
+
+        <ul>
+          <li> <a href="www.google.com"> Bank accounts </a> </li>
+          <li> <a href="www.google.com"> Memberships</a> </li>
+          <li> <a href="www.google.com"> Phone, internet, electricity, gas</a> </li>
+          <li> <a href="www.google.com"> Social media accounts</a> </li>
+          <li> <a href="www.google.com"> Licences and registration</a> </li>
+        </ul>
         
         <h3> Certifying copies </h3>
 
