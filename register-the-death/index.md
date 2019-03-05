@@ -209,7 +209,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
           <a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
           </a>
-          <br></br>
+          <br>
           <h3> Certifying copies </h3>
 
           <p> To cancel or transfer ownership of a service, many companies will need a 'certified copy'. </p>
@@ -257,7 +257,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
           <p class="au-callout" aria-label="Callout description1">
            Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see <a href="https://www.tag.nsw.gov.au/intestacy-faq.html">NSW Trustee and Guardian</a>.
           </p>
-          <br></br>
+          <br>
           <ul> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations:
             <li> the Will doesn't properly dispose of all assets </li>
             <li> the Will is either not signed or not witnessed</li>
