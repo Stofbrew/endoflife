@@ -187,7 +187,40 @@ layout: sidenav
       </div>
     </section>
   </li>
-  
+  <li>
+<section class="au-accordion">
+  <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-5" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">5. Cancel or transfer services</button>
+
+  <div class="au-accordion__body au-accordion--closed" id="accordion-group-5">
+    <div class="au-accordion__body-wrapper">
+      <p> To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.</p>
+
+      <p> Cancelling services can take a long time and many services will ask you to meet with them in person.<p>
+
+      <p> See more about cancelling:</p>
+      <ul>
+        <li> <a href="www.google.com"> Bank accounts </a> </li>
+        <li> <a href="www.google.com"> Memberships</a> </li>
+        <li> <a href="www.google.com"> Phone, internet, electricity, gas</a> </li>
+        <li> <a href="www.google.com"> Social media accounts</a> </li>
+        <li> <a href="www.google.com"> Licences and registration</a> </li>
+      </ul>
+
+      <a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
+      </a>
+
+      <h3> Certifying copies </h3>
+
+      <p> To cancel or transfer ownership of a service, many companies will need a 'certified copy'. </p>
+
+      <p> A certified copy is a photocopy of a document that has been seen by a Justice of the Peace (JP) alongsidewith the original document. </p>
+
+      <p> Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. </p>
+
+    </div>
+  </div>
+</section>
+</li>
   <li>
   <section class="au-accordion">
     <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-6" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">6. Execute the will</button>
