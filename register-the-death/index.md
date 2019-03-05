@@ -199,15 +199,6 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
         <p> Cancelling services can take a long time and many services will ask you to meet with them in person.<p>
 
         <p> See more about cancelling:</p>
-
-        <ul>
-          <li> <a href="www.google.com"> Bank accounts </a> </li>
-          <li> <a href="www.google.com"> Memberships</a> </li>
-          <li> <a href="www.google.com"> Phone, internet, electricity, gas</a> </li>
-          <li> <a href="www.google.com"> Social media accounts</a> </li>
-          <li> <a href="www.google.com"> Licences and registration</a> </li>
-        </ul>
-
         
         <h3> Certifying copies </h3>
 
