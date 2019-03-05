@@ -5,7 +5,8 @@ layout: sidenav
 ---
 
 # After a death
-When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
+<p class="au-callout au-callout--dark"> When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
+  </p>
 
 <ul class="au-accordion-group">
   <li>
@@ -43,7 +44,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
         <div class="au-accordion__body-wrapper">
 
-        <p class="au-callout au-callout--dark" aria-label="Callout description1">
+        <p class="au-callout" aria-label="Callout description1">
         The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a written quote, and know how you are going to pay for the funeral.
         </p>
 
@@ -118,7 +119,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
           <h3> Getting support for grief </h3>
 
-          <p> When someone close to you dies, it can help to have someone to talk to.
+          <p> When someone close to you dies, it can help to have someone to talk to. </p>
           <ul> Some of the support services you might consider include:
               <li> counselling services</li>
               <li> grief counsellor</li>
@@ -127,7 +128,6 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
               <li> support groups </li>
               <li> support services for children </li>
           </ul>
-          </p>
 
           <a class="au-cta-link" href="http://www.nalag.org.au/">See a complete list of services
           </a>
@@ -166,14 +166,14 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-4">
         <div class="au-accordion__body-wrapper">
 
-          <p> A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
+          <p> A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are: </p>
           <ul>
               <li> cancelling and transferring services</li>
               <li> executing a will</li>
               <li> making an insurance claim</li>
               <li> claiming superannuation. </li>
           </ul>
-          </p>
+          
           <p> You funeral directors will usually submit the forms required to get a death certificate, and the certificate will be sent to you through the mail. Because a death certificate records where someone is buried or cremated, you can't get a death certificate until after the funeral. </p>
 
           <p> You can request a death certificate online, in person, or through the post. Visit [NSW Births, Deaths, and Marriages](https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx#Howtoapply) for more information. </p>
@@ -209,7 +209,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
           <a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
           </a>
-          <br>
+
           <h3> Certifying copies </h3>
 
           <p> To cancel or transfer ownership of a service, many companies will need a 'certified copy'. </p>
@@ -237,7 +237,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
           <p> If there are assets that need to be distributed to many different parties, executing a Will can take a long time. </p>
 
-          <ul> Depending on the size and nature of the estate, the process of executing a Will can involve:
+          <p> Depending on the size and nature of the estate, the process of executing a Will can involve: </p>
+          <ul> 
               <li> Finding the Will</li>
               <li> Talking to family and business associates</li>
               <li> Telling beneficiaries</li>
@@ -257,7 +258,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
           <p class="au-callout" aria-label="Callout description1">
            Looking after a person's assets if they don't have a Will can be complicated. For complete information on what happens if there isn't a Will, see <a href="https://www.tag.nsw.gov.au/intestacy-faq.html">NSW Trustee and Guardian</a>.
           </p>
-          <br>
+          
           <p> If someone dies without a Will they are said to die 'intestate'. Intestacy can also include the following situations: </p>
           <ul> 
             <li> the Will doesn't properly dispose of all assets </li>
