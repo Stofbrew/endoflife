@@ -10,7 +10,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 <ul class="au-accordion-group">
   <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-1" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">First steps</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-1" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">1. First steps</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
         <div class="au-accordion__body-wrapper">
@@ -24,8 +24,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
             <li> care for pets </li>
             <li> let family and friends know </li>
           </ul>
+          In some circumstances you will need to take extra steps. This is common if the death:
           <ul>
-            In some circumstances you will need to take extra steps. This is common if the death:
                 <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) </li>
                 <li> [happened in another state or territory] </li>
                 <li> <a href="https://www.bdm.nsw.gov.au/perinatal">was a still birth</a> </li>
@@ -38,7 +38,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
   <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Organise the funeral</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-2" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">2. Organise the funeral</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
         <div class="au-accordion__body-wrapper">
@@ -111,7 +111,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-3" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 3</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-3" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">3. Get support</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-3">
         <div class="au-accordion__body-wrapper">
@@ -123,7 +123,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-4" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 4</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-4" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">4. Get a death certificate</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-4">
         <div class="au-accordion__body-wrapper">
@@ -135,7 +135,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-5" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 5</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-5" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">5. Cancel or transfer services</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-5">
         <div class="au-accordion__body-wrapper">
@@ -147,7 +147,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
     <li>
     <section class="au-accordion">
-      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-6" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">Accordion group 6</button>
+      <button class="au-accordion__title js-au-accordion au-accordion--closed" aria-controls="accordion-group-6" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">6. Execute the will</button>
 
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-6">
         <div class="au-accordion__body-wrapper">
