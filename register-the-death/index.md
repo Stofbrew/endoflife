@@ -15,7 +15,6 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-1">
         <div class="au-accordion__body-wrapper">
           In the first days after someone dies you might need to:
-          <div class="au-body">
           <ul>
             <li> <a href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx"> let authorities know </a> </li>
             <li> talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director) </li>
@@ -25,16 +24,13 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
             <li> care for pets </li>
             <li> let family and friends know </li>
           </ul>
-          </div>
           In some circumstances you will need to take extra steps. This is common if the death:
-          <div class="au-body">
           <ul>
                 <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) </li>
                 <li> [happened in another state or territory] </li>
                 <li> <a href="https://www.bdm.nsw.gov.au/perinatal">was a still birth</a> </li>
                 <li> [was unexpected, accidental, or suspicious](linktocoroner) </li>
             </ul>
-            </div>
         </div>
       </div>
     </section>
@@ -47,12 +43,12 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
       <div class="au-accordion__body au-accordion--closed" id="accordion-group-2">
         <div class="au-accordion__body-wrapper">
 
-        <p class="au-callout" aria-label="Callout description1">
+        <p class="au-callout au-callout--dark" aria-label="Callout description1">
         The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a written quote, and know how you are going to pay for the funeral.
         </p>
 
-        A funeral or memorial service usually happens between 1 and 4 weeks after someone dies.
-
+        <p> A funeral or memorial service usually happens between 1 and 4 weeks after someone dies. </p>
+        
         <ul> Every funeral is different, and when organising a funeral there are many things to consider. Using a funeral director can help to make this easier. They will help you with:
         <li> organising the service including speeches </li>
         <li> transporting and caring for the person who has died </li>
@@ -68,32 +64,31 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
         <a class="au-cta-link" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">Read more about using a Funeral Director
         </a>
         <h3> Things to consider when organising a service </h3>
-        <ul>
         When organising a funeral, you will have to decide on:
-        <li>where the burial plot or memorial will be </li>
-        <li> whether you want burial or cremation </li>
-        <li> what kind of coffin </li>
-        <li> the date (particularly important if people are travelling from far away) </li>
-        <li> who will speak at the service </li>
-        <li> what to say at the service </li>
-        <li> who to invite to the service </li>
-        <li> what clothing you would like the person to wear </li>
-        <li> what is in the memorial booklet </li>
-        <li> whehter you want to hold a wake </li>
+        <ul>
+          <li>where the burial plot or memorial will be </li>
+          <li> whether you want burial or cremation </li>
+          <li> what kind of coffin </li>
+          <li> the date (particularly important if people are travelling from far away) </li>
+          <li> who will speak at the service </li>
+          <li> what to say at the service </li>
+          <li> who to invite to the service </li>
+          <li> what clothing you would like the person to wear </li>
+          <li> what is in the memorial booklet </li>
+          <li> whehter you want to hold a wake </li>
         </ul>
-
+        
         <h3> Paying for a funeral </h3>
 
         <p class="au-callout" aria-label="Callout description1">
         In NSW, a funeral director is required to give you a written quote for a basic funeral. A basic funeral in NSW costs, on average, $4000.
         </p>
-
+        You can pay for a funeral in many different ways:
         <ul>
-          You can pay for a funeral in many different ways:
-        <li> funeral insurance (kept with an insurance agency)</li>
-        <li> using funds from a prepaid funerals (kept with a funeral home)</li>
-        <li> the person's estate (as stipulated in the Will)</li>
-        <li> from your own funds</li>
+          <li> funeral insurance (kept with an insurance agency)</li>
+          <li> using funds from a prepaid funerals (kept with a funeral home)</li>
+          <li> the person's estate (as stipulated in the Will)</li>
+          <li> from your own funds</li>
         </ul>
         <!--
           Light:  <a class="au-cta-link" href="#">
