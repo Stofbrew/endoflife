@@ -200,11 +200,11 @@ layout: sidenav
 
           <p> See more about cancelling:</p>
           <ul>
-          <li> <a href="#"> Bank accounts </a> </li>
-          <li> <a href="#"> Memberships</a> </li>
-          <li> <a href="#"> Phone, internet, electricity, gas</a> </li>
-          <li> <a href="#"> Social media accounts</a> </li>
-          <li> <a href="#"> Licences and registration</a> </li>
+            <li> <a href="#"> Bank accounts </a> </li>
+            <li> <a href="#"> Memberships</a> </li>
+            <li> <a href="#"> Phone, internet, electricity, gas</a> </li>
+            <li> <a href="#"> Social media accounts</a> </li>
+            <li> <a href="#"> Licences and registration</a> </li>
           </ul>
 
           <a class="au-cta-link" href="https://www.humanservices.gov.au/sites/default/files/documents/who-to-notify-checklist.pdf">See a checklist of services to contact – PDF
@@ -218,8 +218,6 @@ layout: sidenav
 
           <p> Because you might be cancelling many services, consider getting many copies certified by the JP at the same time. </p>
 
-          <a class="au-cta-link" href="http://www.jp.nsw.gov.au/justices-of-the-peace/finding-a-jp">Find a Justice of the Peace in NSW
-          </a>
         </div>
       </div>
     </section>
