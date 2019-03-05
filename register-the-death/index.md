@@ -194,6 +194,9 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
     <div class="au-accordion__body au-accordion--closed" id="accordion-group-5">
       <div class="au-accordion__body-wrapper">
+        <p> To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.</p>
+        <p> Cancelling services can take a long time and many services will ask you to meet with them in person.<p>
+        <p> See more about cancelling </p>
 
         <ul>
           <li> <a href="www.google.com"> Bank accounts </a> </li>
