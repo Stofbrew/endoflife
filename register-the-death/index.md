@@ -31,16 +31,16 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 </ul>
 
 In some circumstances you will need to take extra steps. This is common if the death:  
-<ul>
-    <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
-    </li>
-    <li> [happened in another state or territory] 
-    </li>
-    <li> [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
-        </li> 
-    <li> [was unexpected, accidental, or suspicious](linktocoroner)
-        </li>
-</ul>
+        <ul>
+            <li> [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
+            </li>
+            <li> [happened in another state or territory] 
+            </li>
+            <li> [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
+            </li> 
+            <li> [was unexpected, accidental, or suspicious](linktocoroner)
+            </li>
+            </ul>
         </div>
       </div>
     </section>
