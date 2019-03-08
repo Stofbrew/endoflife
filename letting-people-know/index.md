@@ -23,15 +23,27 @@ A death certificate is used to prove a death to services, organisations, and gov
   <h2> Who can get a death certificate? </h2>
   <a id="section1" class="au-inpage-nav-section-link" href="#section1"></a>
 </h2>
-You can apply for a death certificate if you are:
-- the next of kin named on the death certificate, i.e. current spouse (married/defacto), parent or child of the deceased
-- the funeral director (within two months of the registration of death)
-- the Executor of the estate
-- the solicitor acting for next of kin or the Estate. For more information see our Factsheet for solicitors [PDF 170kb].
+You are eligible to apply for a death certificate if you are the:
+- next of kin named on the death certificate (current spouse (married/defacto), parent, child)
+- funeral director (within two months of the registration of death)
+- Executor of the estate
+- solicitor acting for next of kin or the Estate.
 
 If you are a relative not listed on the death certificate, the certificate can be issued to you if the deceased has no spouse, children or parents still alive.
 
 <a class="au-cta-link" href="#">Call to action [outlink]</a>
+
+<section class="au-accordion">
+  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-solicitors" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
+    Information for solicitors
+  </button>
+
+  <div class="au-accordion__body" id="accordion-solicitors">
+    <div class="au-accordion__body-wrapper">
+    <p> This would contain the information for solicitors found in the fact-sheet </p>
+    </div>
+  </div>
+</section>
 
 <section class="au-accordion">
   <button class="au-accordion__title js-au-accordion" aria-controls="accordion-1" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
