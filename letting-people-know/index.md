@@ -24,14 +24,12 @@ A death certificate is used to prove a death to services, organisations, and gov
   <a id="section1" class="au-inpage-nav-section-link" href="#section1"></a>
 </h2>
 You are eligible to apply for a death certificate if you are the:
-- next of kin named on the death certificate (current spouse (married/defacto), parent, child)
-- funeral director (within two months of the registration of death)
+- next of kin named on the death certificate (eg. current spouse (married/defacto), parent, child)
+- funeral director
 - Executor of the estate
 - solicitor acting for next of kin or the Estate.
 
-If you are a relative not listed on the death certificate, the certificate can be issued to you if the deceased has no spouse, children or parents still alive.
-
-<a class="au-cta-link" href="#">Call to action [outlink]</a>
+If you are a relative not listed on the death certificate, a certificate can be issued to you if the person has no spouse, children or parents still alive.
 
 <section class="au-accordion">
   <button class="au-accordion__title js-au-accordion" aria-controls="accordion-solicitors" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
