@@ -12,6 +12,10 @@ Text that opens the page
     
 This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
 
+This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
+
+This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
+
 <a class="au-cta-link" href="#">Call to action [outlink]</a>
 
 <h3> more about this first section </h3>
@@ -21,7 +25,7 @@ This is body text. This will involve paragraphs that are about 3 sentences long.
     Some extra information for a specific group of people.
   </button>
 
-  <div class="au-accordion__body" id="accordion-default">
+  <div class="au-accordion__body" id="accordion-1">
     <div class="au-accordion__body-wrapper">
       Here's where you might learn a little bit more about this. 
     </div>
@@ -29,6 +33,17 @@ This is body text. This will involve paragraphs that are about 3 sentences long.
 </section>
 
 <h2> Second section title </h2>
+
+<section class="au-callout">
+    <h2 class="au-callout__heading"> Some kind of heading </h2>
+    <p>Here are some words that will help to frame the user experience. This is the most important information. 
+Cost, time, how to get one. 
+</p>
+</section>
+
+This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
+
+This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
 
 This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
 
@@ -53,23 +68,3 @@ This is body text. This will involve paragraphs that are about 3 sentences long.
   <li><a href="#">bar</a></li>
   <li><a href="#">baz</a></li>
 </ul>
-<section class="au-callout au-callout--dark">
-    <h2 class="au-callout__heading"> Some kind of heading </h2>
-    <p>Here are some words that will help to frame the user experience. This is the most important information. 
-Cost, time, how to get one. 
-</p>
-</section>
-
-
-<section class="au-accordion">
-  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
-    If it is a still birth
-  </button>
-
-  <div class="au-accordion__body" id="accordion-default">
-    <div class="au-accordion__body-wrapper">
-      Some content here 
-    </div>
-  </div>
-</section>
-
