@@ -34,7 +34,7 @@ If you are a relative not listed on the death certificate, the certificate can b
 <a class="au-cta-link" href="#">Call to action [outlink]</a>
 
 <section class="au-accordion">
-  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
+  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-1" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
     Shortened death certificates ('extracts')
   </button>
 
@@ -76,7 +76,7 @@ This is body text. This will involve paragraphs that are about 3 sentences long.
 <h3> more about this first section </h3>
 
 <section class="au-accordion">
-  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-default" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
+  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-2" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
     Some extra information for a specific group of people.
   </button>
 
