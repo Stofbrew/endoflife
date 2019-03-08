@@ -79,8 +79,33 @@ If you are a relative not listed on the death certificate, a certificate can be 
   <a id="section2" class="au-inpage-nav-section-link" href="#section2"></a>
 </h2>
 
-You must provide at least three forms of identification with your application. 
+You must provide at least three forms of identification with your application. One of each from Categories 1, 2 and 3. 
 
+If you’re unable to provide ID from Categories 1 and 2, you must still provide at least three forms of ID. At least two of these must be from Category 3. 
+
+If you’re unable to comply with these requirements, please contact us for further advice.
+
+### Category 1
+If born in Australia:
+An Australian birth certificate
+Record of immigration status:
+Citizenship certificate
+New Zealand citizenship certificate together with passport
+New Zealand birth certificate
+### Category 2 
+Australia’s driver’s licence
+Australian passport
+Firearms licence
+Foreign passport
+Proof of age card
+### Category 3
+Medicare card
+Credit or debit card
+Centrelink or Department of Veterans Affairs card
+Security/Crowd control licence
+Tertiary education institution ID card
+### Category 4
+Recent utility account with current residential address (issued within last 3 months)
 
 <section class="au-accordion">
   <button class="au-accordion__title js-au-accordion" aria-controls="accordion-2" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
