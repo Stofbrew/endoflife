@@ -54,7 +54,7 @@ This is body text. This will involve paragraphs that are about 3 sentences long.
     Some extra information for a specific group of people.
   </button>
 
-  <div class="au-accordion__body" id="accordion-default">
+  <div class="au-accordion__body" id="accordion-2">
     <div class="au-accordion__body-wrapper">
       Here's where you might learn a little bit more about this. 
     </div>
