@@ -269,3 +269,10 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </section>
   </li>
     </ul>
+
+<h2>Tags:</h2>
+<ul class="au-tags">
+  <li><a href="#">foo</a></li>
+  <li><a href="#">bar</a></li>
+  <li><a href="#">baz</a></li>
+</ul>
