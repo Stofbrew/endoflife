@@ -12,7 +12,7 @@ A death certificate is used to prove a death to services, organisations, and gov
   <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
     <li><a href="#section1">Who can get a death certificate?</a></li>
-    <li><a href="#section2">Identification you need</a></li>    
+    <li><a href="#section2">Documents you need</a></li>    
     <li><a href="#section3">How much does it cost?</a></li>
     <li><a href="#section4">How long does it take?</a></li>
     <li><a href="#section5">How to apply</a></li>
@@ -53,27 +53,16 @@ If you are a relative not listed on the death certificate, the certificate can b
 </section>
 
 <h2 class="au-inpage-nav-section au-display-sm">
-  Section 1 page headline
-  <a id="section2" class="au-inpage-nav-section-link" href="#section1">Link to section</a>
+  <h2> Documents you need </h2>
+  <a id="section2" class="au-inpage-nav-section-link" href="#section2"></a>
 </h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
-<h2> Second section title </h2>
 
 <section class="au-callout">
-    <h3 class="au-callout__heading"> Some kind of heading </h3>
-    <p>Here are some words that will help to frame the user experience. This is the most important information. 
-Cost, time, how to get one. 
+    <h3 class="au-callout__heading"></h3>
+    <p>Here is something you should know. 
 </p>
 </section>
 
-This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
-
-This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
-
-This is body text. This will involve paragraphs that are about 3 sentences long. There should be no more than three paragraphs per section.
-
-<h3> more about this first section </h3>
 
 <section class="au-accordion">
   <button class="au-accordion__title js-au-accordion" aria-controls="accordion-2" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
