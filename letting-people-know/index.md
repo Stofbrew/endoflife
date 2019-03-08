@@ -79,23 +79,43 @@ If you are a relative not listed on the death certificate, a certificate can be 
   <a id="section2" class="au-inpage-nav-section-link" href="#section2"></a>
 </h2>
 
-<section class="au-callout">
-    <h3 class="au-callout__heading"></h3>
-    <p>Here is something you should know. 
-</p>
-</section>
+You must provide at least three forms of identification with your application. 
 
 
 <section class="au-accordion">
   <button class="au-accordion__title js-au-accordion" aria-controls="accordion-2" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
-    Some extra information for a specific group of people.
+    If you are not named on the death certificate
   </button>
 
   <div class="au-accordion__body" id="accordion-2">
     <div class="au-accordion__body-wrapper">
-      Here's where you might learn a little bit more about this. 
+      <p> If you are not named on the death certificate, you must satisfy one of the following conditions:
+<ul>
+  <li> Provide a Letter of Authority [PDF 90kb], giving permission to apply and provide at least three forms of ID from the person providing authority, and three forms of your own ID. </li>
+  <li> Show a document establishing custody or guardianship of the deceased </li>
+  <li> Show Power of Attorney for one of the person’s name on the certificate </li>
+      </ul>
+      </p>
+  
+<p> If you do not meet any of the criteria above you must provide:
+  <ul>
+<li> a Letter of Authority [PDF 90kb], giving permission to apply from the next of kin. Include their address, daytime contact number and signature </li> 
+    <li> three forms of ID from the next of kin </li>
+    <li> three forms of your own ID. </li>
+</ul>
+</p>
     </div>
   </div>
+</section>
+
+<h2 class="au-inpage-nav-section au-display-sm">
+  <h2> How to apply</h2>
+  <a id="section2" class="au-inpage-nav-section-link" href="#section3"></a>
+</h2>
+<section class="au-callout">
+    <h3 class="au-callout__heading">Before you apply</h3>
+    <p>Funeral directors often submit an application for a death certificate on behalf of the family. If you are using a funeral director, make sure you have checked with them before you apply. 
+</p>
 </section>
 
 
