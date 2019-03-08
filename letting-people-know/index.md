@@ -46,6 +46,18 @@ If you are a relative not listed on the death certificate, the certificate can b
 </section>
 
 <section class="au-accordion">
+  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-funeral-directors" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
+    Information for solicitors
+  </button>
+
+  <div class="au-accordion__body" id="accordion-funeral-directors">
+    <div class="au-accordion__body-wrapper">
+    <p> This would contain the information for funeral directors, including the time limits on applying. </p>
+    </div>
+  </div>
+</section>
+
+<section class="au-accordion">
   <button class="au-accordion__title js-au-accordion" aria-controls="accordion-1" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
     Shortened death certificates ('extracts')
   </button>
