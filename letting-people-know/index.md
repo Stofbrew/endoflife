@@ -20,7 +20,7 @@ A death certificate is used to prove a death to services, organisations, and gov
 </nav>
 
 <h2 class="au-inpage-nav-section au-display-sm">
-  Who can get a death certificate?
+  <h2> Who can get a death certificate? </h2>
   <a id="section1" class="au-inpage-nav-section-link" href="#section1">Link to section</a>
 </h2>
 You can apply for a death certificate if you are:
