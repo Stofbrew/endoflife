@@ -45,7 +45,7 @@ If you are a relative not listed on the death certificate, a certificate can be 
 
 <section class="au-accordion">
   <button class="au-accordion__title js-au-accordion" aria-controls="accordion-funeral-directors" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
-    Information for solicitors
+    Information for funeral directors
   </button>
 
   <div class="au-accordion__body" id="accordion-funeral-directors">
