@@ -11,11 +11,13 @@ A death certificate is used to prove a death to services, organisations, and gov
 <nav class="au-inpage-nav-links" aria-label="in page navigation">
   <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
-    <li><a href="#section1">Who can get a death certificate?</a></li>
-    <li><a href="#section2">Documents you need</a></li>    
-    <li><a href="#section3">How much does it cost?</a></li>
-    <li><a href="#section4">How long does it take?</a></li>
-    <li><a href="#section5">How to apply</a></li>
+    <li><a href="#section1">Types of death certificate</a></li>
+    <li><a href="#section2">Who can apply</a></li>
+    <li><a href="#section3">Documents you need</a></li>    
+    <li><a href="#section4">Proving your identity</a></li>
+    <li><a href="#section5">How long does it take?</a></li>
+    <li><a href="#section6">How much does it cost?</a></li>
+    <li><a href="#section7">How to apply</a></li>
   </ul>
 </nav>
 
@@ -28,7 +30,7 @@ Here we will talk about normal, abridged, and historical.
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> Who can apply for a death certificate? </h2>
-  <a id="section1" class="au-inpage-nav-section-link" href="#section1"></a>
+  <a id="section2" class="au-inpage-nav-section-link" href="#section2"></a>
 </h2>
 You are eligible to apply for a death certificate if you are the:
 - next of kin named on the death certificate (eg. current spouse (married/defacto), parent, child)
@@ -83,7 +85,7 @@ If you are a relative not listed on the death certificate, a certificate can be 
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> Documents you'll need to apply</h2>
-  <a id="section2" class="au-inpage-nav-section-link" href="#section2"></a>
+  <a id="section3" class="au-inpage-nav-section-link" href="#section3"></a>
 </h2>
 
 If you are named on the death certificate (next of kin), you will need: 
@@ -96,7 +98,7 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2>Proving your identity</h2>
-  <a id="section2" class="au-inpage-nav-section-link" href="#section3"></a>
+  <a id="section4" class="au-inpage-nav-section-link" href="#section4"></a>
 </h2>
 
 You’ll need to provide 1 document from each category.  
@@ -127,8 +129,18 @@ Any one of the following:
 - ID card from University, TAFE or other tertiary education provider 
 
 <h2 class="au-inpage-nav-section au-display-sm">
+  <h2> How long will it take?</h2>
+  <a id="section7" class="au-inpage-nav-section-link" href="#section7"></a>
+</h2>
+
+<h2 class="au-inpage-nav-section au-display-sm">
+  <h2> How much does it cost?</h2>
+  <a id="section6" class="au-inpage-nav-section-link" href="#section6"></a>
+</h2>
+
+<h2 class="au-inpage-nav-section au-display-sm">
   <h2> How to apply</h2>
-  <a id="section2" class="au-inpage-nav-section-link" href="#section3"></a>
+  <a id="section7" class="au-inpage-nav-section-link" href="#section7"></a>
 </h2>
 <section class="au-callout">
     <h3 class="au-callout__heading">Before you apply</h3>
