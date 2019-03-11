@@ -20,7 +20,14 @@ A death certificate is used to prove a death to services, organisations, and gov
 </nav>
 
 <h2 class="au-inpage-nav-section au-display-sm">
-  <h2> Who can get a death certificate? </h2>
+  <h2> Types of death certificate </h2>
+  <a id="section1" class="au-inpage-nav-section-link" href="#section1"></a>
+</h2>
+
+Here we will talk about normal, abridged, and historical. 
+
+<h2 class="au-inpage-nav-section au-display-sm">
+  <h2> Who can apply for a death certificate? </h2>
   <a id="section1" class="au-inpage-nav-section-link" href="#section1"></a>
 </h2>
 You are eligible to apply for a death certificate if you are the:
@@ -75,63 +82,49 @@ If you are a relative not listed on the death certificate, a certificate can be 
 </section>
 
 <h2 class="au-inpage-nav-section au-display-sm">
-  <h2> Documents you need </h2>
+  <h2> Documents you'll need to apply</h2>
   <a id="section2" class="au-inpage-nav-section-link" href="#section2"></a>
 </h2>
 
-You must provide at least three forms of identification with your application. One of each from Categories 1, 2 and 3. 
+If you are named on the death certificate (next of kin), you will need: 
+- 3 forms of ID (see below)
 
-If you’re unable to provide ID from Categories 1 and 2, you must still provide at least three forms of ID. At least two of these must be from Category 3. 
+If you are not named on the death certificate, you will need to provide 3 forms of ID as well as 1 of the following: 
+- Letter of Authority, including 3 forms of ID from the person giving authority 
+- Document showing custody of guardianship of the person that has died 
+- Document showing Power of Attorney for one fo the people named on the death certificate
 
-If you’re unable to comply with these requirements, please contact us for further advice.
+<h2 class="au-inpage-nav-section au-display-sm">
+  <h2>Proving your identity</h2>
+  <a id="section2" class="au-inpage-nav-section-link" href="#section3"></a>
+</h2>
 
-### Category 1
-If born in Australia:
-An Australian birth certificate
-Record of immigration status:
-Citizenship certificate
-New Zealand citizenship certificate together with passport
-New Zealand birth certificate
-### Category 2 
-Australia’s driver’s licence
-Australian passport
-Firearms licence
-Foreign passport
-Proof of age card
-### Category 3
-Medicare card
-Credit or debit card
-Centrelink or Department of Veterans Affairs card
-Security/Crowd control licence
-Tertiary education institution ID card
-### Category 4
-Recent utility account with current residential address (issued within last 3 months)
+You’ll need to provide 1 document from each category.  
 
-<section class="au-accordion">
-  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-2" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
-    If you are not named on the death certificate
-  </button>
+If you can’t provide ID from Categories 1 and 2, you must still provide at least three forms of ID. At least two of these must be from Category 3.
 
-  <div class="au-accordion__body" id="accordion-2">
-    <div class="au-accordion__body-wrapper">
-      <p> If you are not named on the death certificate, you must satisfy one of the following conditions:
-<ul>
-  <li> Provide a Letter of Authority [PDF 90kb], giving permission to apply and provide at least three forms of ID from the person providing authority, and three forms of your own ID. </li>
-  <li> Show a document establishing custody or guardianship of the deceased </li>
-  <li> Show Power of Attorney for one of the person’s name on the certificate </li>
-      </ul>
-      </p>
-  
-<p> If you do not meet any of the criteria above you must provide:
-  <ul>
-<li> a Letter of Authority [PDF 90kb], giving permission to apply from the next of kin. Include their address, daytime contact number and signature </li> 
-    <li> three forms of ID from the next of kin </li>
-    <li> three forms of your own ID. </li>
-</ul>
-</p>
-    </div>
-  </div>
-</section>
+If you don’t have the ID needed to submit an application, contact Births, Deaths and Marriages for advice. https://www.bdm.nsw.gov.au/Pages/contact-us/contact-us-bdm.aspx
+
+### Category 1 
+Any one of the following:
+- an Australian birth certificate 
+- Australian citizen certificate 
+- New Zealand citizen certificate and New Zealand passport 
+- New Zealand birth certificate 
+
+### Category 2
+Any one of the following:
+- Australian driver’s licence
+- Passport (Australian or other)
+- Australian firearms licence 
+- Proof of age card 
+
+### Category 3 
+Any one of the following:
+- Medicare card 
+- Centrelink or Department of Veterans Affairs card 
+- Security/Crowd control licence
+- ID card from University, TAFE or other tertiary education provider 
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> How to apply</h2>
