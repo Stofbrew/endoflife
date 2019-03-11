@@ -14,7 +14,6 @@ A death certificate is used to prove a death to services, organisations, and gov
     <li><a href="#section1">Types of death certificate</a></li>
     <li><a href="#section2">Who can apply</a></li>
     <li><a href="#section3">Documents you need</a></li>    
-    <li><a href="#section4">Proving your identity</a></li>
     <li><a href="#section5">How long does it take?</a></li>
     <li><a href="#section6">How much does it cost?</a></li>
     <li><a href="#section7">How to apply</a></li>
@@ -96,10 +95,7 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 - Document showing custody of guardianship of the person that has died 
 - Document showing Power of Attorney for one fo the people named on the death certificate
 
-<h2 class="au-inpage-nav-section au-display-sm">
-  <h2>Proving your identity</h2>
-  <a id="section4" class="au-inpage-nav-section-link" href="#section4"></a>
-</h2>
+### Proving your identity
 
 You’ll need to provide 1 document from each category.  
 
