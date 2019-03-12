@@ -151,13 +151,13 @@ This is usually included within a Funeral Directors fee.
   <a id="section7" class="au-inpage-nav-section-link" href="#section7"></a>
 </h2>
 <section class="au-callout">
-    <h3 class="au-callout__heading">Before you apply</h3>
-    <p>Funeral directors often submit an application for you. If you are using a funeral director, check with them before you apply. 
+     <h3 class="au-callout__heading au-callout__heading--sronly"> Before you apply</h3>
+    <p>Funeral directors will usually submit the application for you. If you are using a funeral director, check with them before you apply. 
 </p>
 </section>
 
 
-You can submit your application along with your supporting documents: 
+Submit your application with the supporting documents to any of the following: 
 <ul> 
   <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages > </a> </li>
   <li> in person at a <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Births, Deaths and Marriages office > </a></li>
@@ -168,7 +168,7 @@ You can submit your application along with your supporting documents:
      GPO Box 30
      Sydney NSW 2001
 
-If you're applying in person or by post, you will need: 
+If you're applying in person or by post, you will also need: 
 - a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
 
 
