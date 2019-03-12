@@ -95,7 +95,7 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 <p>If you can’t provide ID from Categories 1 and 2, you must still provide at least three forms of ID. At least two of these must be from Category 3.
 </p>
 
-<p> If you don’t have the ID needed to submit an application, contact Births, Deaths and Marriages for advice. https://www.bdm.nsw.gov.au/Pages/contact-us/contact-us-bdm.aspx
+<p> If you don’t have the ID needed to submit an application, <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/contact-us-bdm.aspx>contact Births, Deaths and Marriages </a> for advice. 
 </p>
 
 <h3> Category 1 </h3>
@@ -136,7 +136,7 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 
 It takes around 3 weeks for a death certificate to come. 
 
-Processing times can vary at different times of the year. Find Up to date processing times at <a href"https://www.bdm.nsw.gov.au/Pages/about-us/processing-times.aspx> Births, Deaths, and Marriages. </a>
+Processing times can vary at different times of the year. Find Up to date processing times at <a href="https://www.bdm.nsw.gov.au/Pages/about-us/processing-times.aspx"> Births, Deaths, and Marriages. </a>
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> How much does it cost?</h2>
