@@ -77,7 +77,6 @@ If you are a relative not listed on the death certificate, a certificate can be 
 
 If you are named on the death certificate (next of kin), you will need: 
 - 3 forms of ID (see below)
-- a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a> or online application form. 
 
 If you are not named on the death certificate, you will also need to provide 1 of the following: 
 - Letter of Authority, including 3 forms of ID from the person giving authority 
@@ -169,6 +168,8 @@ Submit your application with the supporting documents to any of the following:
      Registry of Births, Deaths & Marriages
      GPO Box 30
      Sydney NSW 2001
+     
+If you are applying in person or by post you will need a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>.
 
 <h2>Tags:</h2>
 <ul class="au-tags">
