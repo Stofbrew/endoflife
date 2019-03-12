@@ -158,25 +158,19 @@ This is usually included within a Funeral Directors fee.
 </section>
 
 
-You can submit your application for a death certificate:
+You can submit your application along with your supporting documents: 
 <ul> 
   <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages </a> </li>
   <li> in person at a <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Births, Deaths and Marriages office > </a></li>
   <li> in person <a href="https://www.service.nsw.gov.au/service-centre"> at ServiceNSW > </a></li>
+  <li> by post to </li>
+  <li> <li> Registry of Births, Deaths & Marriages </li></li>
+<li> <li> GPO Box 30 </li></li>
+<li> <li> Sydney NSW 2001 </li></li>
 </ul>
 
 If you're applying in person or by post, you will need: 
 - a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
-- your 
-
-If you're applying by post, you will need:
-- a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
-- <a href="#"> verified copies </a> of your identity documents 
-
-Postal Address: 
-Registry of Births, Deaths & Marriages
-GPO Box 30
-Sydney NSW 2001
 
 
 <h2>Tags:</h2>
