@@ -27,6 +27,12 @@ A death certificate is used as an official record of a death. Your funeral direc
 
 Here we will talk about normal, abridged, and historical. 
 
+<p> An extract death certificate is an official certified copy of part of the information held on the death register. It can be issued with or without the cause of death.</p>
+        
+<p> The extract may not be accepted by some organisations because it doesn't provide complete information. </p>
+
+<p> To order an extract, please complete a death certificate application with a cover letter requesting an Extract death certificate. </p>
+
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> Who can apply for a death certificate? </h2>
   <a id="section2" class="au-inpage-nav-section-link" href="#section2"></a>
@@ -63,24 +69,6 @@ If you are a relative not listed on the death certificate, a certificate can be 
   </div>
 </section>
 
-<section class="au-accordion">
-  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-1" aria-expanded="true" onclick="return AU.accordion.Toggle( this )">
-    Shortened death certificates ('extracts')
-  </button>
-
-  <div class="au-accordion__body" id="accordion-1">
-    <div class="au-accordion__body-wrapper">
-      <p> An extract death certificate is an official certified copy of part of the information held on the death register. It can be issued with or without the cause of death.</p>
-        
-<p> The extract may not be accepted by some organisations because it doesn't provide complete information. </p>
-
-<p> To order an extract, please complete a death certificate application with a cover letter requesting an Extract death certificate. </p>
-
-<p> <a class="au-cta-link" href="#"> Download a Death certificate application [Fillable PDF 830kb </a> 
-    </p>
-    </div>
-  </div>
-</section>
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> Documents you'll need to apply</h2>
