@@ -135,10 +135,17 @@ If you are not named on the death certificate, you will need to provide 3 forms 
   <a id="section7" class="au-inpage-nav-section-link" href="#section7"></a>
 </h2>
 
+It takes around 3 weeks for a death certificate to come. 
+
+Processing times can vary at different times of the year. Find Up to date processing times at <a href"https://www.bdm.nsw.gov.au/Pages/about-us/processing-times.aspx> Births, Deaths, and Marriages. </a>
+
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> How much does it cost?</h2>
   <a id="section6" class="au-inpage-nav-section-link" href="#section6"></a>
 </h2>
+It costs $58 to apply for a death certificate. 
+
+This is usually included within a Funeral Directors fee. 
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> How to apply</h2>
@@ -150,10 +157,19 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 </p>
 </section>
 
+You can apply for a death certificate either:
+<ul> 
+  <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">Online with Births, Deaths, and Marriages </a> </li>
+  <li> In person at a Births, Deaths and Marriages centre or ServiceNSW service centre </li>
+</ul>
+
+<a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Download the application form [PDF - size] </a>
+Find a Births, Deaths and Marriages location https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx
+Find a Service NSW service centre https://www.service.nsw.gov.au/service-centre
 
 <h2>Tags:</h2>
 <ul class="au-tags">
-  <li><a href="#">foo</a></li>
-  <li><a href="#">bar</a></li>
-  <li><a href="#">baz</a></li>
+  <li><a href="#">Forms</a></li>
+  <li><a href="#">Funeral Directors</a></li>
+  <li><a href="#">Money</a></li>
 </ul>
