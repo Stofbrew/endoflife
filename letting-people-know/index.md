@@ -6,7 +6,10 @@ layout: sidenav
 
 # Getting a death certificate 
 
-A death certificate is used as an official record of a death. Your funeral director will often organise this for you, but it can only be issued after the funeral. It costs (x) and can take up to three weeks to arrive by mail. 
+*Do this* after the funeral
+*It will take* about three weeks
+*It will cost*  $58
+
 
 <nav class="au-inpage-nav-links" aria-label="in page navigation">
   <h2 class="au-inpage-nav-links__heading">On this page</h2>
