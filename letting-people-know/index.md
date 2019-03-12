@@ -50,7 +50,7 @@ If you are a relative not listed on the death certificate, a certificate can be 
     Information for solicitors
   </button>
 
-  <div class="au-accordion__body" id="accordion-solicitors">
+  <div class="au-accordion__body au-accordion--closed" id="accordion-solicitors">
     <div class="au-accordion__body-wrapper">
     <p> This would contain the information for solicitors found in the fact-sheet </p>
     </div>
@@ -62,7 +62,7 @@ If you are a relative not listed on the death certificate, a certificate can be 
     Information for funeral directors
   </button>
 
-  <div class="au-accordion__body" id="accordion-funeral-directors">
+  <div class="au-accordion__body au-accordion--closed" id="accordion-funeral-directors">
     <div class="au-accordion__body-wrapper">
     <p> This would contain the information for funeral directors, including the time limits on applying. </p>
     </div>
@@ -157,14 +157,26 @@ This is usually included within a Funeral Directors fee.
 </p>
 </section>
 
-You can apply for a death certificate either:
+You can submit your application for a death certificate:
 <ul> 
   <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages </a> </li>
   <li> in person at a Births, Deaths and Marriages office <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Find Births, Deaths and Marriages </a></li>
   <li> in person at ServiceNSW <a href="https://www.service.nsw.gov.au/service-centre"> Find a ServiceNSW centre </a></li>
 </ul>
 
-If you're applying in person, you will need to take a completed Death Certificate Application Form. <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Download the application form [PDF - size] </a>
+If you're applying in person, you will need:
+- a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
+- your identity documents
+
+If you're applying by post, you will need:
+- a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
+- <a href="#"> verified copies </a> of your identity documents 
+
+Postal Address: 
+Registry of Births, Deaths & Marriages
+GPO Box 30
+Sydney NSW 2001
+
 
 <h2>Tags:</h2>
 <ul class="au-tags">
