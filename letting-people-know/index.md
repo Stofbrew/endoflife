@@ -153,20 +153,21 @@ This is usually included within a Funeral Directors fee.
 </h2>
 <section class="au-callout">
     <h3 class="au-callout__heading">Before you apply</h3>
-    <p>Funeral directors often submit an application for a death certificate on behalf of the family. If you are using a funeral director, make sure you have checked with them before you apply. 
+    <p>Funeral directors often submit an application for you. If you are using a funeral director, check with them before you apply. 
 </p>
 </section>
+
 
 You can submit your application for a death certificate:
 <ul> 
   <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages </a> </li>
-  <li> in person at a Births, Deaths and Marriages office <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Find Births, Deaths and Marriages </a></li>
-  <li> in person at ServiceNSW <a href="https://www.service.nsw.gov.au/service-centre"> Find a ServiceNSW centre </a></li>
+  <li> in person at a <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Births, Deaths and Marriages office > </a></li>
+  <li> in person <a href="https://www.service.nsw.gov.au/service-centre"> at ServiceNSW > </a></li>
 </ul>
 
-If you're applying in person, you will need:
+If you're applying in person or by post, you will need: 
 - a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
-- your identity documents
+- your 
 
 If you're applying by post, you will need:
 - a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
