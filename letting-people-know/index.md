@@ -170,11 +170,6 @@ Submit your application with the supporting documents to any of the following:
      GPO Box 30
      Sydney NSW 2001
 
-<section class="au-callout">
-    <h2 class="au-callout__heading au-callout__heading--sronly">Title of the callout</h2>
-    <p>Description of the callout</p>
-</section>
-
 <h2>Tags:</h2>
 <ul class="au-tags">
   <li><a href="#">Forms</a></li>
