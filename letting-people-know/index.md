@@ -95,9 +95,14 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 - Document showing custody of guardianship of the person that has died 
 - Document showing Power of Attorney for one fo the people named on the death certificate
 
-### Proving your identity
+<section class="au-accordion">
+  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-identity" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
+    Proving your identity
+  </button>
 
-You’ll need to provide 1 document from each category.  
+  <div class="au-accordion__body" id="accordion-identity">
+    <div class="au-accordion__body-wrapper">
+    <p> To prove your identity, you’ll need to provide 1 document from each of the categories below.  
 
 If you can’t provide ID from Categories 1 and 2, you must still provide at least three forms of ID. At least two of these must be from Category 3.
 
@@ -123,6 +128,11 @@ Any one of the following:
 - Centrelink or Department of Veterans Affairs card 
 - Security/Crowd control licence
 - ID card from University, TAFE or other tertiary education provider 
+</p>
+    </div>
+  </div>
+</section>
+
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> How long will it take?</h2>
