@@ -84,11 +84,11 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 - Document showing Power of Attorney for one fo the people named on the death certificate
 
 <section class="au-accordion">
-  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-identity" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
+  <button class="au-accordion__title au-accordion--closed js-au-accordion" aria-controls="accordion-identity" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
     Proving your identity
   </button>
 
-  <div class="au-accordion__body" id="accordion-identity">
+  <div class="au-accordion__body au-accordion--closed" id="accordion-identity">
     <div class="au-accordion__body-wrapper">
 <p> To prove your identity, you’ll need to provide 1 document from each of the categories below.  </p>
 
@@ -124,7 +124,6 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 <li> Security/Crowd control licence </li>
   <li> ID card from University, TAFE or other tertiary education provider </li>
   </ul> 
-</p>
     </div>
   </div>
 </section>
@@ -163,11 +162,11 @@ You can submit your application along with your supporting documents:
   <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages </a> </li>
   <li> in person at a <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Births, Deaths and Marriages office > </a></li>
   <li> in person <a href="https://www.service.nsw.gov.au/service-centre"> at ServiceNSW > </a></li>
-  <li> by post to </li>
-  <li> <li> Registry of Births, Deaths & Marriages </li></li>
-<li> <li> GPO Box 30 </li></li>
-<li> <li> Sydney NSW 2001 </li></li>
-</ul>
+  <li> by post to: </li>
+  </ul>
+     Registry of Births, Deaths & Marriages
+     GPO Box 30
+     Sydney NSW 2001
 
 If you're applying in person or by post, you will need: 
 - a completed <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Death Certificate Application Form [PDF - 00MB] </a>
