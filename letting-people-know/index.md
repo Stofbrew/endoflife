@@ -46,7 +46,7 @@ You are eligible to apply for a death certificate if you are the:
 If you are a relative not listed on the death certificate, a certificate can be issued to you if the person has no spouse, children or parents still alive.
 
 <section class="au-accordion">
-  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-solicitors" aria-expanded="false" onclick="AU.accordion.Toggle( this )">
+  <button class="au-accordion__title js-au-accordion" aria-controls="accordion-solicitors" aria-expanded="false" onclick="return AU.accordion.Toggle( this )">
     Information for solicitors
   </button>
 
