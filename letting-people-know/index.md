@@ -90,32 +90,40 @@ If you are not named on the death certificate, you will need to provide 3 forms 
 
   <div class="au-accordion__body" id="accordion-identity">
     <div class="au-accordion__body-wrapper">
-    <p> To prove your identity, you’ll need to provide 1 document from each of the categories below.  
+<p> To prove your identity, you’ll need to provide 1 document from each of the categories below.  </p>
 
-If you can’t provide ID from Categories 1 and 2, you must still provide at least three forms of ID. At least two of these must be from Category 3.
+<p>If you can’t provide ID from Categories 1 and 2, you must still provide at least three forms of ID. At least two of these must be from Category 3.
+</p>
 
-If you don’t have the ID needed to submit an application, contact Births, Deaths and Marriages for advice. https://www.bdm.nsw.gov.au/Pages/contact-us/contact-us-bdm.aspx
+<p> If you don’t have the ID needed to submit an application, contact Births, Deaths and Marriages for advice. https://www.bdm.nsw.gov.au/Pages/contact-us/contact-us-bdm.aspx
+</p>
 
-### Category 1 
-Any one of the following:
-- an Australian birth certificate 
-- Australian citizen certificate 
-- New Zealand citizen certificate and New Zealand passport 
-- New Zealand birth certificate 
+<h3> Category 1 </h3>
+<p> Any one of the following: </p>
+<ul>
+<li> an Australian birth certificate </li>
+<li> Australian citizen certificate </li>
+<li> New Zealand citizen certificate and New Zealand passport </li>
+<li> New Zealand birth certificate </li>
+</ul>
 
-### Category 2
-Any one of the following:
-- Australian driver’s licence
-- Passport (Australian or other)
-- Australian firearms licence 
-- Proof of age card 
+<h3> Category 2 </h3>
+<p> Any one of the following: </p>
+<ul>
+<li> Australian driver’s licence </li>
+<li> Passport (Australian or other) </li>
+<li> Australian firearms licence </li>
+<li> Proof of age card </li>
+</ul>
 
-### Category 3 
-Any one of the following:
-- Medicare card 
-- Centrelink or Department of Veterans Affairs card 
-- Security/Crowd control licence
-- ID card from University, TAFE or other tertiary education provider 
+<h3> Category 3 </h3>
+<p> Any one of the following: </p>
+  <ul>
+  <li> Medicare card </li>
+<li> Centrelink or Department of Veterans Affairs card </li>
+<li> Security/Crowd control licence </li>
+  <li> ID card from University, TAFE or other tertiary education provider </li>
+  </ul> 
 </p>
     </div>
   </div>
