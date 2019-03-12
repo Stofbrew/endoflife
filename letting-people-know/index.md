@@ -159,7 +159,7 @@ This is usually included within a Funeral Directors fee.
 
 You can submit your application along with your supporting documents: 
 <ul> 
-  <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages </a> </li>
+  <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages > </a> </li>
   <li> in person at a <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Births, Deaths and Marriages office > </a></li>
   <li> in person <a href="https://www.service.nsw.gov.au/service-centre"> at ServiceNSW > </a></li>
   <li> by post to: </li>
