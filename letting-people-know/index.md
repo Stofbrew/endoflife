@@ -159,13 +159,12 @@ This is usually included within a Funeral Directors fee.
 
 You can apply for a death certificate either:
 <ul> 
-  <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">Online with Births, Deaths, and Marriages </a> </li>
-  <li> In person at a Births, Deaths and Marriages centre or ServiceNSW service centre </li>
+  <li> <a href ="https://onlineforms.bdm.nsw.gov.au/application/death_details">online with Births, Deaths, and Marriages </a> </li>
+  <li> in person at a Births, Deaths and Marriages office <a href="https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx"> Find Births, Deaths and Marriages </a></li>
+  <li> in person at ServiceNSW <a href="https://www.service.nsw.gov.au/service-centre"> Find a ServiceNSW centre </a></li>
 </ul>
 
-<a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Download the application form [PDF - size] </a>
-Find a Births, Deaths and Marriages location https://www.bdm.nsw.gov.au/Pages/contact-us/registry-office-locations.aspx
-Find a Service NSW service centre https://www.service.nsw.gov.au/service-centre
+If you're applying in person, you will need to take a completef Death Certificate Application Form. <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Download the application form [PDF - size] </a>
 
 <h2>Tags:</h2>
 <ul class="au-tags">
