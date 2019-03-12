@@ -164,7 +164,7 @@ You can apply for a death certificate either:
   <li> in person at ServiceNSW <a href="https://www.service.nsw.gov.au/service-centre"> Find a ServiceNSW centre </a></li>
 </ul>
 
-If you're applying in person, you will need to take a completef Death Certificate Application Form. <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Download the application form [PDF - size] </a>
+If you're applying in person, you will need to take a completed Death Certificate Application Form. <a href ="https://www.bdm.nsw.gov.au/Documents/apply-for-death-certificate.pdf"> Download the application form [PDF - size] </a>
 
 <h2>Tags:</h2>
 <ul class="au-tags">
