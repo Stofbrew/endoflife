@@ -6,11 +6,16 @@ layout: sidenav
 
 # Getting a death certificate 
 
+
+<section class="au-callout au-callout--calendar-event">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"><strong> Do this </strong> after the furneral </p>
+  <p class="au-callout--calendar-event__lede"><strong> It will take </strong> about 3 weeks to arrive</p>
+  <p class="au-callout--calendar-event__lede"><strong> It will cost </strong> $58</p>
+</section>
 <p> <strong> Do this </strong> after the funeral </p>
 <p> <strong> It will take </strong> about three weeks </p>
 <p> <strong> It will cost </strong>  $58 </p>
-
-
 <nav class="au-inpage-nav-links" aria-label="in page navigation">
   <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
