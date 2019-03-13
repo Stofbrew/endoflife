@@ -9,10 +9,10 @@ layout: sidenav
 
 <section class="au-callout au-callout--calendar-event">
   <h2 class="au-callout__heading au-callout__heading--sronly au-callout--dark"></h2>
-  <p class="au-callout--calendar-event__lede"><strong> Do this </strong> after the furneral </p>
-  <p class="au-callout--calendar-event__lede"><strong> It will take </strong> about 3 weeks to arrive</p>
-  <p class="au-callout--calendar-event__lede"><strong> It will cost </strong> $58</p>
-  <p class="au-callout--calendar-event__lede"><strong> You'll need to do this if</strong> you are cancelling services, proving  your identity </p>
+  <p class="au-callout--calendar-event__lede"> Do this <strong> after the furneral </strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take <strong> about 3 weeks to arrive </strong> </p>
+  <p class="au-callout--calendar-event__lede"> It will cost <strong> $58 </strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this if<strong> you are cancelling services, proving  your identity </strong> </p>
 </section>
 
 <!--- <p> <strong> Do this </strong> after the funeral </p>
