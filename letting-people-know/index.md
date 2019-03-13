@@ -39,9 +39,10 @@ A death certificate is the offical record of a death.
 
 You use it to cancel services. 
 
-There are two types – unabridged and extract. 
+There's another kind, too – an eextract.
 
-Here's why you'd want those. 
+Here's why you'd want an extract.  
+Here's its limitations. 
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> Who can apply for a death certificate? </h2>
