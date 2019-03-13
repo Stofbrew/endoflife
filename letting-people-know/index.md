@@ -7,12 +7,12 @@ layout: sidenav
 # Getting a death certificate 
 
 
-<section class="au-callout au-callout--calendar-event">
-  <h2 class="au-callout__heading au-callout__heading--sronly au-callout--dark"></h2>
-  <p class="au-callout--calendar-event__lede"> Do this <strong> after the furneral </strong></p>
-  <p class="au-callout--calendar-event__lede"> It will take <strong> about 3 weeks to arrive </strong> </p>
+<section class="au-callout au-callout--calendar-event au-callout--dark">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"> Do this <strong> after the funeral </strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take about <strong> 3 weeks to arrive </strong> </p>
   <p class="au-callout--calendar-event__lede"> It will cost <strong> $58 </strong> </p>
-  <p class="au-callout--calendar-event__lede"> You'll need to do this if<strong> you are cancelling services, proving  your identity </strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this if you are <strong> cancelling services, proving  your identity </strong> </p>
 </section>
 
 <!--- <p> <strong> Do this </strong> after the funeral </p>
