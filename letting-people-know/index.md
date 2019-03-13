@@ -8,28 +8,29 @@ layout: sidenav
 
 
 <section class="au-callout au-callout--calendar-event">
-  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <h2 class="au-callout__heading au-callout__heading--sronly au-callout--dark"></h2>
   <p class="au-callout--calendar-event__lede"><strong> Do this </strong> after the furneral </p>
   <p class="au-callout--calendar-event__lede"><strong> It will take </strong> about 3 weeks to arrive</p>
   <p class="au-callout--calendar-event__lede"><strong> It will cost </strong> $58</p>
 </section>
-<p> <strong> Do this </strong> after the funeral </p>
+
+<!--- <p> <strong> Do this </strong> after the funeral </p>
 <p> <strong> It will take </strong> about three weeks </p>
-<p> <strong> It will cost </strong>  $58 </p>
+<p> <strong> It will cost </strong>  $58 </p> 
+---> 
+
 <nav class="au-inpage-nav-links" aria-label="in page navigation">
   <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
-    <li><a href="#section1">Types of death certificate</a></li>
+    <li><a href="#section1">Death certificates</a></li>
     <li><a href="#section2">Who can apply</a></li>
     <li><a href="#section3">Documents you need</a></li>    
-    <li><a href="#section5">How long does it take?</a></li>
-    <li><a href="#section6">How much does it cost?</a></li>
     <li><a href="#section7">How to apply</a></li>
   </ul>
 </nav>
 
 <h2 class="au-inpage-nav-section au-display-sm">
-  <h2> Types of death certificate </h2>
+  <h2> Overview of death certificate </h2>
   <a id="section1" class="au-inpage-nav-section-link" href="#section1"></a>
 </h2>
 
