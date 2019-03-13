@@ -12,6 +12,7 @@ layout: sidenav
   <p class="au-callout--calendar-event__lede"><strong> Do this </strong> after the furneral </p>
   <p class="au-callout--calendar-event__lede"><strong> It will take </strong> about 3 weeks to arrive</p>
   <p class="au-callout--calendar-event__lede"><strong> It will cost </strong> $58</p>
+  <p class="au-callout--calendar-event__lede"><strong> You'll need to do this if</strong> you are cancelling services, proving  your identity </p>
 </section>
 
 <!--- <p> <strong> Do this </strong> after the funeral </p>
@@ -34,13 +35,13 @@ layout: sidenav
   <a id="section1" class="au-inpage-nav-section-link" href="#section1"></a>
 </h2>
 
-Here we will talk about normal, abridged, and historical. 
+A death certificate is the offical record of a death. 
 
-<p> An extract death certificate is an official certified copy of part of the information held on the death register. It can be issued with or without the cause of death.</p>
-        
-<p> The extract may not be accepted by some organisations because it doesn't provide complete information. </p>
+You use it to cancel services. 
 
-<p> To order an extract, please complete a death certificate application with a cover letter requesting an Extract death certificate. </p>
+There are two types – unabridged and extract. 
+
+Here's why you'd want those. 
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> Who can apply for a death certificate? </h2>
