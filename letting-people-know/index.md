@@ -6,9 +6,9 @@ layout: sidenav
 
 # Getting a death certificate 
 
-*Do this* after the funeral
-*It will take* about three weeks
-*It will cost*  $58
+<p> <strong> Do this </strong> after the funeral </p>
+<p> <strong> It will take </strong> about three weeks </p>
+<p> <strong> It will cost </strong>  $58 </p>
 
 
 <nav class="au-inpage-nav-links" aria-label="in page navigation">
