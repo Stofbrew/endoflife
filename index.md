@@ -40,9 +40,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 <!----
 Accordion body
 ---->
-      <p> If emergency: contact the police or ambulance </p>
-      <p> If you had organised for the death to happen at home, you will need to contact the person's treating doctor. </p>
-      <p> You will also need to deal with the MCCD </p>
+      <p> You only need to contact the police or emergency services (dial 000) if the person has died unexpectedly, or outside of a hospital or care facility. </p>
+      <p> If you had organised for the person to die at your home, you will need to contact the person's treating doctor. </p>
 
 <!----
 Call to action
@@ -64,6 +63,7 @@ Call to action
       Accordion body
       ---->
             <p> You will need to talk to a funeral director almost immediately because they are usually responsible for caring for a person's body after they have died.</p>
+
             <p> A funeral director can also help with:</p>
             <ul>
               <li>registering the death</li>
@@ -84,7 +84,7 @@ Call to action
 
 <section class="au-accordion-nested">
   <a href="#group-1-nested-3" class="js-au-accordion " aria-controls="#group-1-nested-3" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
-    <h3 id="find-the-will">Find the Will</h3>
+    <h3 id="find-the-will">Find the Will and other documents</h3>
   </a>
 
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-3">
@@ -92,8 +92,22 @@ Call to action
       <!----
       Accordion body
       ---->
-            <p> The Will is a legal record of what someone wants to happen after they have died. Often this includes information about what they would like to happen at their funeral. a funeral service </p>
-            <p> If there isn't a Will, there might be other documents listing their wishes for the burial or funeral. </p>
+          <p>In the first few days after someone dies, it can be helpful to have access to the person's Will – the legal record of what someone wants to happen to their property after they die.</p>
+          <p> Often people also include information about what they would like to happen at their funeral. </p>
+          <p> If there isn't a Will, there might be other documents listing their wishes for the burial or funeral. </p>
+          <p> Wills are often stored: </p>
+            <ul>
+              <li>in a home safe or safety deposit box</li>
+              <li>with the person's lawyer</li>
+            </ul>
+            <p> It's likely that your funeral director will ask you for some information that they will use to register the death. To make this easier, get together the person's: </p>
+            <ul>
+              <li>birth certificate</li>
+              <li>marriage certificate</li>
+              <li>full names and ages of all children</li>
+            </ul>
+            <a class="au-cta-link" href="https://www.tag.nsw.gov.au/deceased-will-enquiry-form.html">Find a Will registered in NSW >
+      </a>
       <!----
       Call to action
       ---->
