@@ -22,14 +22,12 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 </nav>
 
 ## First steps
-<h2 class="au-inpage-nav-section au-display-sm"> 
-  <a id="section1" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
-
-Do this in the first few days 
-It will take 
-It will cost 
-Do this because 
+<section class="au-callout au-callout--calendar-event au-callout--dark">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"> Do this <strong>in the first few days</strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take about <strong> 2-3 hours</strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this to <strong> make things easier later on </strong> </p>
+</section>
 
 
 - let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)  
