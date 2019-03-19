@@ -21,13 +21,17 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </ul>
 </nav>
 
-## The first few days
+## First steps
 <h2 class="au-inpage-nav-section au-display-sm"> 
   <a id="section1" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
+Do this in the first few days 
+It will take 
+It will cost 
+Do this because 
 
-These are the things that need to happen straight away.
+
 - let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)  
 - talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
 Help with organising the funeral service, getting the death certificate, etc. 
@@ -39,9 +43,6 @@ More information about wills
 
 - consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
 Taking leave information and links
-- If there are dependants
-
-- care for pets
 
 - let family and friends know
 
@@ -50,6 +51,8 @@ In some circumstances you will need to take extra steps. This is common if the d
 - [happened in another state or territory] 
 - [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
 - [was unexpected, accidental, or suspicious](linktocoroner)
+- If there are dependants
+- If there are pets
 
 
 ## Organise a funeral or memorial service – first week
