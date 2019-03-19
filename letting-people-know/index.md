@@ -37,12 +37,21 @@ layout: sidenav
 
 A death certificate is the offical record of a death. 
 
-You use it to cancel services. 
+Death certificates can be used as proof of death, and proof of relationship to someone that has died. 
 
-There's another kind, too – an eextract.
+Some of the information that's recorded on a death certificate include:
+- their name
+- the cause of death
+- the names of their legal spouses 
+- the names and ages of their children
+- the place of birth
+- the place of death
+- the final resting place
 
-Here's why you'd want an extract.  
-Here's its limitations. 
+## Extract death certificates 
+An extract death certificate is an official certified copy of part of the information held on the death register.  It can be issued with or without the cause of death.
+
+The extract may not be accepted by some organisations due to the limited information it contains. To order an extract, please complete a death certificate application with a cover letter requesting an Extract death certificate. 
 
 <h2 class="au-inpage-nav-section au-display-sm">
   <h2> Who can apply for a death certificate? </h2>
@@ -79,6 +88,7 @@ If you are a relative not listed on the death certificate, a certificate can be 
     </div>
   </div>
 </section>
+
 
 
 <h2 class="au-inpage-nav-section au-display-sm">
