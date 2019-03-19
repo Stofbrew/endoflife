@@ -54,9 +54,13 @@ In some circumstances you will need to take extra steps. This is common if the d
 
 
 ## Organise a funeral or memorial service – first week
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section2" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
+<section class="au-callout au-callout--calendar-event au-callout--dark">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"> Do this <strong> after the funeral </strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take about <strong> 3 weeks to arrive </strong> </p>
+  <p class="au-callout--calendar-event__lede"> It will cost <strong> $58 </strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this if you are <strong> cancelling services, proving  your identity </strong> </p>
+</section>
 
 <p class="au-callout" aria-label="Callout description1">
 The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a written quote, and know how you are going to pay for the funeral.
@@ -126,9 +130,13 @@ If you or the person's estate can’t pay for a funeral, they may be eligible fo
 </a>
 
 ## Get support – first month
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section3" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
+<section class="au-callout au-callout--calendar-event au-callout--dark">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"> Do this <strong> after the funeral </strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take about <strong> 3 weeks to arrive </strong> </p>
+  <p class="au-callout--calendar-event__lede"> It will cost <strong> $58 </strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this if you are <strong> cancelling services, proving  your identity </strong> </p>
+</section>
 
 ### Getting support for grief 
 
@@ -169,9 +177,13 @@ If you are seeing a counsellor as part of a mental health care plan, or if you a
 If you are Aboriginal or a Torres Strait Islander, you might be able to get refunds for travel to funerals. See [Transport for NSW](https://www.transport.nsw.gov.au/operations/community-transport-operators/transport-for-aboriginal-communities)
 
 ##   Get a death certificate – after the funeral
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section4" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
+<section class="au-callout au-callout--calendar-event au-callout--dark">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"> Do this <strong> after the funeral </strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take about <strong> 3 weeks to arrive </strong> </p>
+  <p class="au-callout--calendar-event__lede"> It will cost <strong> $58 </strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this if you are <strong> cancelling services, proving  your identity </strong> </p>
+</section>
 
 A death certificate is the official record of a person's death. It can be used to prove that a death has occurred, which is important when you are:
 - cancelling and transferring services 
@@ -189,14 +201,19 @@ Births, Deaths and Marriages charge $85 for a death certificate. They can take u
 <a class="au-cta-link" href="https://www.bdm.nsw.gov.au/Pages/deaths/death-certificate.aspx">Read complete information about death certificates 
 </a>
 ## Cancel or transfer servives – after the funeral
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section5" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
+<section class="au-callout au-callout--calendar-event au-callout--dark">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"> Do this <strong> after the funeral </strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take <strong> a long time</strong> </p>
+  <p class="au-callout--calendar-event__lede"> It will cost <strong> $58 </strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this if you are <strong> cancelling services, proving  your identity </strong> </p>
+</section>
 To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity.
 
-Cancelling services can take a long time.
+Cancelling services can take a long time. Try to get together a complete list of services before you start, so that you know what documents you need. 
 
 Many services will ask you to meet with them in person. 
+
 See more about cancelling:
 - Bank accounts 
 - Memberships 
@@ -218,9 +235,13 @@ Because you might be cancelling many services, consider getting many copies cert
 </a>
 
 ## Execute the Will – 1-12 months
-<h2 class="au-inpage-nav-section au-display-sm">
-  <a id="section6" class="au-inpage-nav-section-link" href="#">back to top</a>
-</h2>
+<section class="au-callout au-callout--calendar-event au-callout--dark">
+  <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
+  <p class="au-callout--calendar-event__lede"> Do this <strong> after the funeral </strong></p>
+  <p class="au-callout--calendar-event__lede"> It will take <strong> between 3 and 12 months </strong> </p>
+  <p class="au-callout--calendar-event__lede"> It will cost <strong> this depends on the estate</strong> </p>
+  <p class="au-callout--calendar-event__lede"> You'll need to do this if strong> there are assets worth over a certain amount</strong> </p>
+</section>
 
 A Will is a legal document that states your wishes for how your assets will be distributed after your death. 
 
