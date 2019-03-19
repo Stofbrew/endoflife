@@ -69,11 +69,10 @@ Call to action
       ---->
             <a class="au-cta-link" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">Read more about paying for a funeral director>
       </a>
-
-
     </div>
   </div>
 </section>
+
 <section class="au-accordion-nested">
   <a href="#group-1-nested-3" class="js-au-accordion " aria-controls="#group-1-nested-3" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
     <h3 id="find-the-will">Find the Will</h3>
@@ -92,7 +91,6 @@ Call to action
             <a class="au-cta-link" href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx">Read more about who to notify at LawAccessNSW >
       </a>
     </div>
-
   </div>
   </section>
 <section class="au-accordion-nested">
