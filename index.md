@@ -9,7 +9,7 @@ layout: sidenav
 # After a death
 When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make the best choices for your situation.
 
-<nav class="au-inpage-nav-links" aria-label="in page navigation">
+<!--- <nav class="au-inpage-nav-links" aria-label="in page navigation">
   <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
     <li><a href="#section1">First steps</a></li>
@@ -20,7 +20,7 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
     <li><a href="#section6">Execute the Will</a></li>
   </ul>
 </nav>
-
+--->
 ## First steps
 <section class="au-callout au-callout--calendar-event au-callout--dark">
   <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
