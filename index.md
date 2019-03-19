@@ -95,17 +95,20 @@ Taking leave information and links
 
 - let family and friends know
 
-In some circumstances you will need to take extra steps. This is common if the death:  
+In some circumstances you will need to take extra steps. 
+
 <section class="au-accordion-nested">
   <a href="#group-1-nested-7" class="js-au-accordion " aria-controls="#group-1-nested-7" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
-    <h3 id="if-death-happened-overseas">If the death happened overseas</h3>
+    <h3 id="if-death-happened-outside-nsw">If the death happened outside of NSW</h3>
   </a>
 
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-7">
     <div class="au-accordion__body-wrapper">
+        <h4> Overseas </h4>
+        <h4> Another state or territory </h4>
     </div>
   </div>
-  </section>
+</section>
   <section class="au-accordion-nested">
   <a href="#group-1-nested-8" class="js-au-accordion " aria-controls="#group-1-nested-8" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
     <h3 id="if-the-death-was-referred-to-coroner">If the death was referred to the coroner</h3>
