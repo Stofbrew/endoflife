@@ -191,6 +191,7 @@ Call to action
 
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-10">
     <div class="au-accordion__body-wrapper">
+      <p>something</p>
     </div>
   </div>
   </section>
