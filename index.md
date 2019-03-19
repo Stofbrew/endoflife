@@ -51,6 +51,7 @@ Call to action
     </div>
   </div>
 </section>
+
 <section class="au-accordion-nested">
   <a href="#group-1-nested-2" class="js-au-accordion " aria-controls="#group-1-nested-2" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
     <h3 id="talk-to-a-funeral-director">Talk to a funeral director</h3>
@@ -63,7 +64,7 @@ Call to action
       ---->
             <p> A funeral director can help with many elements : Registering the death, organising the ceremony, burial and plots. </p>
             <p> You'll need to talk to a funeral director almost immediately after someone dies because they are responsible for transporting and caring for the person after they have died.</p>
-            <p> This doesn't mean you necessarily have to use the same Funeral Director for the ceremony. However, there might be costs associated with changing Funeral Directors.
+            <p> This doesn't mean you necessarily have to use the same Funeral Director for the ceremony. However, there might be costs associated with changing Funeral Directors. </p>
       <!----
       Call to action
       ---->
