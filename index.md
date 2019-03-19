@@ -143,7 +143,7 @@ Call to action
   </section>
 
 
-In some circumstances you will need to take extra steps.
+<p> In some circumstances you will need to take extra steps. </p>
 
 <section class="au-accordion-nested">
   <a href="#group-1-nested-7" class="js-au-accordion " aria-controls="#group-1-nested-7" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
@@ -180,6 +180,7 @@ In some circumstances you will need to take extra steps.
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-9">
     <div class="au-accordion__body-wrapper">
       <a class="au-cta-link" href="#">Read about transfering guardianship>
+        </a>
     </div>
   </div>
   </section>
@@ -197,17 +198,19 @@ In some circumstances you will need to take extra steps.
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-9">
     <div class="au-accordion__body-wrapper">
       <a class="au-cta-link" href="#">Read about transfering guardianship>
+        </a>
     </div>
   </div>
   </section>
   <section class="au-accordion-nested">
-  <a href="#group-1-nested-10" class="js-au-accordion " aria-controls="#group-1-nested-10" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+  <a href="#group-1-nested-11" class="js-au-accordion " aria-controls="#group-1-nested-11" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
     <h3 id="if-there-are-pets">When a child is stillborn</h3>
   </a>
 
-  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-10">
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-11">
     <div class="au-accordion__body-wrapper">
-      <a class="au-cta-link" href="#">Read more about registering a stillbirth>
+      <a class="au-cta-link" href="#">Read more about registering a stillbirth> 
+      </a>
     </div>
   </div>
   </section>
