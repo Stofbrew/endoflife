@@ -211,15 +211,6 @@ In some circumstances you will need to take extra steps.
   </div>
   </section>
 
-
-
-
-- [was a still birth](https://www.bdm.nsw.gov.au/perinatal)
-
-- If there are dependants
-- If there are pets
-
-
 ## Organise a funeral or memorial service – first week
 <section class="au-callout au-callout--calendar-event au-callout--dark">
   <h2 class="au-callout__heading au-callout__heading--sronly"></h2>
