@@ -7,7 +7,7 @@ layout: sidenav
 ---> 
     
 # After a death 
-When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make choices that are right for your situation.
+When someone dies, there can be pressure to make big decisions quickly. This guide gives you information to help make the best choices for your situation. 
 
 <nav class="au-inpage-nav-links" aria-label="in page navigation">
   <h2 class="au-inpage-nav-links__heading">On this page</h2>
@@ -21,19 +21,28 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </ul>
 </nav>
 
-## First steps
+## The first few days
 <h2 class="au-inpage-nav-section au-display-sm"> 
   <a id="section1" class="au-inpage-nav-section-link" href="#">back to top</a>
 </h2>
 
 
-In the first days after someone dies you might need to: 
+These are the things that need to happen straight away.
 - let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)  
 - talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
+Help with organising the funeral service, getting the death certificate, etc. 
+If the death happened at home 
+If the death happened in an aged care facilitiy 
 - find the will and other documents 
+Some information 
+More information about wills 
+
 - consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave) 
-- care for dependants
+Taking leave information and links
+- If there are dependants
+
 - care for pets
+
 - let family and friends know
 
 In some circumstances you will need to take extra steps. This is common if the death:  
@@ -52,6 +61,21 @@ In some circumstances you will need to take extra steps. This is common if the d
 The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a written quote, and know how you are going to pay for the funeral.
 </p>
 
+Do this between 1 and 4 weeks after someone dies 
+It will take depends on the service
+It will cost 4000 for basic, but average in NSW is higher
+You'll need to do this: everyone is buried or cremated. Ceremony is not compulsory. 
+
+---
+Intro text about Funeral directors. 
+
+What needs to be organised 
+Paying for a funeral 
+burial and cremation 
+Final resting place 
+
+- special burials 
+
 A funeral or memorial service usually happens between 1 and 4 weeks after someone dies. 
 
 Every funeral is different, and when organising a funeral there are many things to consider. Using a funeral director can help to make this easier. They will help you with:
@@ -59,10 +83,6 @@ Every funeral is different, and when organising a funeral there are many things 
 - transporting and caring for the person who has died
 - organising a venue for the service 
 - officiating/speaking at the funeral 
-<!--
-  Light:  <a class="au-cta-link" href="#">
-  Dark:   <a class="au-cta-link au-cta-link--dark" href="#">
--->
 
 <a class="au-cta-link" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">Read more about using a Funeral Director 
 </a>
