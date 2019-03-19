@@ -36,7 +36,22 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
   <div class="au-accordion__body au-accordion--closed" id="#group-2-nested-1">
     <div class="au-accordion__body-wrapper">
-        
+      <p>When organising a funeral, you will have to decide on:</p>
+          <ul>
+            <li>where the burial plot or memorial will be</li>
+            <li>whether burial or cremation</li>
+            <li>what kind of coffin</li>
+            <li>the date (particularly important if people are travelling from far away)</li>
+            <li>who will speak at the service</li>
+            <li>what to say at the service</li>
+            <li>who to invite to the service</li>
+            <li>what clothing you would like the person to wear</li>
+            <li>what is in the memorial booklet</li>
+            <li>whehter you want to hold a wake</li>
+          </ul>
+    </div>
+  </div>
+			</section>
 - let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)  
 - talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
 Help with organising the funeral service, getting the death certificate, etc. 
