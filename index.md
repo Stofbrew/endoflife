@@ -195,7 +195,7 @@ Call to action
   </div>
   </section>
 
-  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-9">
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-10">
     <div class="au-accordion__body-wrapper">
       <a class="au-cta-link" href="#">Read about transfering guardianship>
         </a>
@@ -209,7 +209,7 @@ Call to action
 
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-11">
     <div class="au-accordion__body-wrapper">
-      <a class="au-cta-link" href="#">Read more about registering a stillbirth> 
+      <a class="au-cta-link" href="#">Read more about registering a stillbirth>
       </a>
     </div>
   </div>
