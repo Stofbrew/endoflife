@@ -40,7 +40,9 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 <!----
 Accordion body
 ---->
-      <p> Why you would let people know</p>
+      <p> If emergency: contact the police or ambulance </p>
+      <p> If you had organised for the death to happen at home, you will need to contact the person's treating doctor. You will also need to deal with the MCCD </p>
+
 <!----
 Call to action
 ---->
@@ -59,14 +61,16 @@ Call to action
       <!----
       Accordion body
       ---->
-            <p> </p>
+            <p> A funeral director can help with many elements : Registering the death, organising the ceremony, burial and plots. </p>
+            <p> You'll need to talk to a funeral director almost immediately after someone dies because they are responsible for transporting and caring for the person after they have died.</p>
+            <p> This doesn't mean you necessarily have to use the same Funeral Director for the ceremony. However, there might be costs associated with changing Funeral Directors.
       <!----
       Call to action
       ---->
-            <a class="au-cta-link" href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx">Read more about who to notify at LawAccessNSW >
+            <a class="au-cta-link" href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director">Read more about paying for a funeral director>
       </a>
 
-      https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director
+
     </div>
   </div>
 </section>
@@ -80,7 +84,8 @@ Call to action
       <!----
       Accordion body
       ---->
-            <p> </p>
+            <p> The Will is a legal record of what someone wants to happen after they have died. Often this includes information about what they would like to happen at their funeral. a funeral service </p>
+            <p> If there isn't a Will, there might be other documents listing their wishes for the burial or funeral. </p>
       <!----
       Call to action
       ---->
@@ -120,30 +125,26 @@ Call to action
       <!----
       Accordion body
       ---->
-            <p> </p>
+            <p> The time immediately after someone dies can be busy and stressful. Many workplaces offer leave intended to support you after a death. Ask your employer about:</p>
+            <ul>
+              <li> bereavement leave</li>
+              <li> stress leave </li>
+              <li> carers leave </li>
+            </ul>
+
+
       <!----
       Call to action
       ---->
-            <a class="au-cta-link" href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx">Read more about who to notify at LawAccessNSW >
+            <a class="au-cta-link" href="https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave">Read more about bereavement leave >
       </a>
 
     </div>
   </div>
   </section>
 
-- let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)
-- talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
-Help with organising the funeral service, getting the death certificate, etc.
-If the death happened at home
-If the death happened in an aged care facilitiy
-- find the will and other documents
-Some information
-More information about wills
 
-- consider [time off work](https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave)
-Taking leave information and links
 
-- let family and friends know
 
 In some circumstances you will need to take extra steps.
 
