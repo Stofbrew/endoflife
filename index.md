@@ -36,6 +36,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-1">
     <div class="au-accordion__body-wrapper">
+      <a class="au-cta-link" href="http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx">Read more about who to notify at LawAccessNSW >
+</a>  
     </div>
   </div>
 </section>
