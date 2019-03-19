@@ -71,11 +71,11 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   </div>
   </section>
   <section class="au-accordion-nested">
-  <a href="#group-1-nested-2" class="js-au-accordion " aria-controls="#group-1-nested-2" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
-    <h3 id="talk-to-a-funeral-director">Talk to a funeral director</h3>
+  <a href="#group-1-nested-6" class="js-au-accordion " aria-controls="#group-1-nested-6" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+    <h3 id="consider-time-off-work">Consider time off work</h3>
   </a>
 
-  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-2">
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-6">
     <div class="au-accordion__body-wrapper">
     </div>
   </div>
@@ -96,6 +96,47 @@ Taking leave information and links
 - let family and friends know
 
 In some circumstances you will need to take extra steps. This is common if the death:  
+<section class="au-accordion-nested">
+  <a href="#group-1-nested-7" class="js-au-accordion " aria-controls="#group-1-nested-7" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+    <h3 id="if-death-happened-overseas">If the death happened overseas</h3>
+  </a>
+
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-7">
+    <div class="au-accordion__body-wrapper">
+    </div>
+  </div>
+  </section>
+  <section class="au-accordion-nested">
+  <a href="#group-1-nested-8" class="js-au-accordion " aria-controls="#group-1-nested-8" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+    <h3 id="if-the-death-was-referred-to-coroner">If the death was referred to the coroner</h3>
+  </a>
+
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-8">
+    <div class="au-accordion__body-wrapper">
+    </div>
+  </div>
+  </section>
+  <section class="au-accordion-nested">
+  <a href="#group-1-nested-9" class="js-au-accordion " aria-controls="#group-1-nested-9" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+    <h3 id="if-there-are-dependents">If there are dependents</h3>
+  </a>
+
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-9">
+    <div class="au-accordion__body-wrapper">
+    </div>
+  </div>
+  </section>
+  <section class="au-accordion-nested">
+  <a href="#group-1-nested-10" class="js-au-accordion " aria-controls="#group-1-nested-10" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+    <h3 id="if-there-are-pets">If there are pets</h3>
+  </a>
+
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-10">
+    <div class="au-accordion__body-wrapper">
+    </div>
+  </div>
+  </section>
+  
 - [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx) 
 - [happened in another state or territory] 
 - [was a still birth](https://www.bdm.nsw.gov.au/perinatal) 
