@@ -41,7 +41,8 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
 Accordion body
 ---->
       <p> If emergency: contact the police or ambulance </p>
-      <p> If you had organised for the death to happen at home, you will need to contact the person's treating doctor. You will also need to deal with the MCCD </p>
+      <p> If you had organised for the death to happen at home, you will need to contact the person's treating doctor. </p>
+      <p> You will also need to deal with the MCCD </p>
 
 <!----
 Call to action
@@ -62,9 +63,16 @@ Call to action
       <!----
       Accordion body
       ---->
-            <p> A funeral director can help with many elements : Registering the death, organising the ceremony, burial and plots. </p>
-            <p> You'll need to talk to a funeral director almost immediately after someone dies because they are responsible for transporting and caring for the person after they have died.</p>
-            <p> This doesn't mean you necessarily have to use the same Funeral Director for the ceremony. However, there might be costs associated with changing Funeral Directors. </p>
+            <p> You will need to talk to a funeral director almost immediately because they are usually responsible for caring for a person's body after they have died.</p>
+            <p> A funeral director can also help with:</p>
+            <ul>
+              <li>registering the death</li>
+              <li>organising the funeral or memorial service</li>
+              <li>headstones, plots, and plaques.</li>
+            </ul>
+            <p>To find a funeral director... </p>
+            <p>Many funeral directors are open 24 hours a day.</p>
+
       <!----
       Call to action
       ---->
