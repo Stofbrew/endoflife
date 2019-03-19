@@ -29,7 +29,14 @@ When someone dies, there can be pressure to make big decisions quickly. This gui
   <p class="au-callout--calendar-event__lede"> You'll need to do this to <strong> make things easier later on </strong> </p>
 </section>
 
+<section class="au-accordion-nested">
+  <a href="#group-2-nested-1" class="js-au-accordion " aria-controls="#group-2-nested-1" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+    <h3 id="things-to-consider-when-organising-a-service">Things to consider when organising a service</h3>
+  </a>
 
+  <div class="au-accordion__body au-accordion--closed" id="#group-2-nested-1">
+    <div class="au-accordion__body-wrapper">
+        
 - let [authorities know](http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx)  
 - talk to a [funeral director](https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/funerals/using-a-funeral-director)
 Help with organising the funeral service, getting the death certificate, etc. 
