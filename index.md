@@ -144,8 +144,6 @@ Call to action
   </section>
 
 
-
-
 In some circumstances you will need to take extra steps.
 
 <section class="au-accordion-nested">
@@ -156,7 +154,11 @@ In some circumstances you will need to take extra steps.
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-7">
     <div class="au-accordion__body-wrapper">
         <h4> Overseas </h4>
+        <a class="au-cta-link" href="https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx">Read complete information about when someone dies overseas>
+  </a>
         <h4> Another state or territory </h4>
+        <a class="au-cta-link" href="#">Read about what happens when someone dies in another state>
+  </a>
     </div>
   </div>
 </section>
@@ -167,16 +169,18 @@ In some circumstances you will need to take extra steps.
 
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-8">
     <div class="au-accordion__body-wrapper">
+      <p> When a death is referred to a coroner </p>
     </div>
   </div>
   </section>
   <section class="au-accordion-nested">
   <a href="#group-1-nested-9" class="js-au-accordion " aria-controls="#group-1-nested-9" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
-    <h3 id="if-there-are-dependents">If there are dependents</h3>
+    <h3 id="if-there-are-dependents">If there are children or other dependents</h3>
   </a>
 
   <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-9">
     <div class="au-accordion__body-wrapper">
+      <a class="au-cta-link" href="#">Read about transfering guardianship>
     </div>
   </div>
   </section>
@@ -191,10 +195,29 @@ In some circumstances you will need to take extra steps.
   </div>
   </section>
 
-- [happened overseas – SmartTraveller](https://smartraveller.gov.au/guide/all-travellers/birth-death-marriage/Pages/death-overseas.aspx)
-- [happened in another state or territory]
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-9">
+    <div class="au-accordion__body-wrapper">
+      <a class="au-cta-link" href="#">Read about transfering guardianship>
+    </div>
+  </div>
+  </section>
+  <section class="au-accordion-nested">
+  <a href="#group-1-nested-10" class="js-au-accordion " aria-controls="#group-1-nested-10" aria-expanded="false" aria-selected="false" onclick="return AU.accordion.Toggle( this )">
+    <h3 id="if-there-are-pets">When a child is stillborn</h3>
+  </a>
+
+  <div class="au-accordion__body au-accordion--closed" id="#group-1-nested-10">
+    <div class="au-accordion__body-wrapper">
+      <a class="au-cta-link" href="#">Read more about registering a stillbirth>
+    </div>
+  </div>
+  </section>
+
+
+
+
 - [was a still birth](https://www.bdm.nsw.gov.au/perinatal)
-- [was unexpected, accidental, or suspicious](linktocoroner)
+
 - If there are dependants
 - If there are pets
 
